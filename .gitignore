@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.dev
+.env.test
+.env.prod
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# API analysis outputs
+captures/
+*.pcap
+*.mitm
+api_responses/
+
+# APK/IPA files
+*.apk
+*.ipa
+decompiled/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Elasticsearch
+elasticsearch-data/
+
+
+# Временные файлы парсера
+raw_events.json
+firebase_tokens.json
+firestore_*.json
+party_hunt_decompiled/
+party_hunt_unzipped/
+*.log
+nohup.out
+scraper_output.log
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.db

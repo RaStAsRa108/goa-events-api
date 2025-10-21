@@ -1,0 +1,17 @@
+# Netlify конфигурация для Goa Events API
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/*.json"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Content-Type = "application/json; charset=utf-8"
+    Cache-Control = "public, max-age=3600"
+
