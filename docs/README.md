@@ -1,39 +1,27 @@
-# 🏖️ Goa Party Events API
+# 🎉 Party Hunt Events API
 
-Автоматически обновляемая база вечеринок в Goa из Party Hunt.
+Автоматически обновляемая база данных всех вечеринок из приложения Party Hunt.
 
 ## 📊 Статистика
 
-- **Событий в Goa:** 5202
-- **Обновлено:** 21.10.2025 21:23
+- **Всего событий:** 0
+- **Городов:** 0
+- **Последнее обновление:** 04.11.2025 05:44
 
-## 🚀 API
+## 🚀 Использование
 
+### Все события:
 ```
-https://ваш-username.github.io/repo/events_goa.json
+https://ваш-username.github.io/ваш-репо/events.json
 ```
 
-## 📖 Структура
+### По городам:
 
-```json
-{
-  "city": "goa",
-  "total": 5202,
-  "updated_at": "2025-01-21T...",
-  "events": [
-    {
-      "id": "...",
-      "title": "...",
-      "fromDate": "...",
-      "tribe": "goa",
-      ...
-    }
-  ]
-}
-```
+
+## 📖 Города
+
+
 
 ## 🔄 Обновление
 
-```bash
-python scrape_goa.py
-```
+Запустите: `python run_scraper.py`

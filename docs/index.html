@@ -3,152 +3,213 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🏖️ Goa Parties API</title>
+    <title>🎉 Party Hunt Events API</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             min-height: 100vh;
             padding: 20px;
         }
-        .container { max-width: 900px; margin: 0 auto; }
-        .card {
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .header {
             background: white;
             border-radius: 20px;
-            padding: 50px 40px;
+            padding: 60px 40px;
+            text-align: center;
             box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-            margin-bottom: 20px;
-        }
-        h1 {
-            font-size: 56px;
-            background: linear-gradient(135deg, #f093fb, #f5576c);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        .stat {
-            text-align: center;
-            font-size: 72px;
-            font-weight: bold;
-            background: linear-gradient(135deg, #f093fb, #f5576c);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            margin: 30px 0;
-        }
-        .subtitle {
-            text-align: center;
-            color: #666;
-            font-size: 18px;
             margin-bottom: 30px;
         }
-        .api-btn {
-            display: block;
-            background: linear-gradient(135deg, #f093fb, #f5576c);
-            color: white;
-            text-decoration: none;
-            padding: 25px 50px;
-            border-radius: 15px;
-            font-size: 20px;
-            font-weight: bold;
-            text-align: center;
-            transition: transform 0.3s;
-            margin: 20px 0;
+        h1 {
+            font-size: 48px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 10px;
         }
-        .api-btn:hover { transform: scale(1.05); box-shadow: 0 10px 30px rgba(0,0,0,0.3); }
-        .info-box {
+        .subtitle {
+            color: #666;
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        .update-time {
+            color: #999;
+            font-size: 14px;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .stat-card {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transition: transform 0.3s;
+        }
+        .stat-card:hover {
+            transform: translateY(-5px);
+        }
+        .stat-number {
+            font-size: 56px;
+            font-weight: bold;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .stat-label {
+            color: #666;
+            margin-top: 10px;
+            font-size: 16px;
+        }
+        .content {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #333;
+            margin-bottom: 20px;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 10px;
+        }
+        .endpoint {
             background: #f8f9fa;
             padding: 20px;
             border-radius: 10px;
-            margin: 20px 0;
-            border-left: 5px solid #f5576c;
+            margin: 15px 0;
+            border-left: 5px solid #667eea;
         }
-        .code {
+        .endpoint-url {
+            font-family: 'Courier New', monospace;
+            color: #667eea;
+            font-weight: bold;
+            font-size: 16px;
+            word-break: break-all;
+        }
+        .cities-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 10px;
+            margin: 20px 0;
+        }
+        .city-link {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            text-decoration: none;
+            padding: 15px;
+            border-radius: 10px;
+            text-align: center;
+            transition: all 0.3s;
+            font-weight: 500;
+        }
+        .city-link:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        }
+        pre {
             background: #1e1e1e;
             color: #d4d4d4;
             padding: 20px;
             border-radius: 10px;
             overflow-x: auto;
-            font-family: 'Courier New', monospace;
             font-size: 14px;
             line-height: 1.6;
         }
         .footer {
             text-align: center;
             color: white;
-            padding: 30px;
-            font-size: 16px;
+            padding: 20px;
+            margin-top: 30px;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="card">
-            <h1>🏖️ Goa Parties</h1>
-            <div class="subtitle">Все вечеринки в Goa из Party Hunt</div>
-            <div class="stat" id="total">5,202</div>
-            <div style="text-align: center; color: #999; margin-bottom: 30px;">событий в Goa</div>
-            <a href="events_goa.json" class="api-btn">📥 Скачать events_goa.json</a>
+        <div class="header">
+            <h1>🎉 Party Hunt Events</h1>
+            <div class="subtitle">Все вечеринки Индии в одном месте</div>
+            <div class="update-time">Обновлено: 04.11.2025 05:44</div>
         </div>
 
-        <div class="card">
-            <h2 style="color: #333; margin-bottom: 20px;">📡 API Endpoint</h2>
-            <div class="info-box">
-                <strong>URL:</strong><br>
-                <code style="background: #fff; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-top: 10px;">
-                    https://ваш-username.github.io/repo/events_goa.json
-                </code>
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-number">0</div>
+                <div class="stat-label">Всего событий</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">0</div>
+                <div class="stat-label">Городов</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">0</div>
+                <div class="stat-label">Опубликовано</div>
             </div>
         </div>
 
-        <div class="card">
-            <h2 style="color: #333; margin-bottom: 20px;">💻 Пример использования</h2>
-            <div class="code">import requests
+        <div class="content">
+            <h2>📡 API Endpoints</h2>
+            
+            <div class="endpoint">
+                <strong>Все события:</strong><br>
+                <div class="endpoint-url">https://ваш-username.github.io/ваш-репо/events.json</div>
+            </div>
+            
+            <div class="endpoint">
+                <strong>По городам:</strong><br>
+                <div class="cities-grid">
+                    
+                </div>
+            </div>
+        </div>
 
-# Получить все события Goa
-url = 'https://ваш-username.github.io/repo/events_goa.json'
-response = requests.get(url)
+        <div class="content">
+            <h2>💻 Как использовать</h2>
+            <p style="margin-bottom: 15px;">Пример на Python:</p>
+            <pre>import requests
+
+# Получить все события
+response = requests.get('https://ваш-username.github.io/ваш-репо/events.json')
 data = response.json()
 
-print(f"Событий в Goa: {data['total']}")
-
-for event in data['events'][:10]:
-    title = event.get('title', 'No title')
-    date = event.get('fromDate', 'N/A')[:10]
-    price = event.get('entryFee', -1)
-    print(f"- {title} | {date} | {price}₹")</div>
+print(f"Всего событий: {data['total']}")
+for event in data['events'][:5]:
+    title = event.get('title', 'Без названия')
+    city = event.get('tribe', 'unknown')
+    print(f"- {title} ({city})")
+</pre>
         </div>
 
-        <div class="card">
-            <h2 style="color: #333; margin-bottom: 20px;">📖 Поля в событии</h2>
-            <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px;">
-                <div style="background: #f8f9fa; padding: 10px; border-radius: 5px;">✅ title</div>
-                <div style="background: #f8f9fa; padding: 10px; border-radius: 5px;">✅ description</div>
-                <div style="background: #f8f9fa; padding: 10px; border-radius: 5px;">✅ fromDate / toDate</div>
-                <div style="background: #f8f9fa; padding: 10px; border-radius: 5px;">✅ picture</div>
-                <div style="background: #f8f9fa; padding: 10px; border-radius: 5px;">✅ tribe (goa)</div>
-                <div style="background: #f8f9fa; padding: 10px; border-radius: 5px;">✅ entryFee</div>
-                <div style="background: #f8f9fa; padding: 10px; border-radius: 5px;">✅ listTags</div>
-                <div style="background: #f8f9fa; padding: 10px; border-radius: 5px;">✅ viewsCount</div>
-            </div>
+        <div class="content">
+            <h2>📊 Структура данных</h2>
+            <pre>{
+  "id": "событие-id",
+  "title": "Название события",
+  "description": "Описание",
+  "fromDate": "2023-07-16T14:30:00Z",
+  "toDate": "2023-07-16T18:30:00Z",
+  "tribe": "goa | pune | mumbai | ...",
+  "picture": "https://...",
+  "picture_thumbnail": "https://...",
+  "entryFee": -1,
+  "listTags": ["NIGHT PARTIES", "Dj Sets"],
+  "viewsCount": 123
+}</pre>
         </div>
 
         <div class="footer">
-            <p style="font-size: 20px; font-weight: bold;">🔥 Goa Party Hunt API</p>
-            <p style="opacity: 0.9; margin-top: 10px;" id="updated">Обновлено: сегодня</p>
+            <p>🔥 Powered by Party Hunt Reverse Engineering</p>
+            <p style="margin-top: 10px; opacity: 0.8;">Данные обновляются при запуске скрипта</p>
         </div>
     </div>
-
-    <script>
-        fetch('events_goa.json')
-            .then(r => r.json())
-            .then(data => {
-                document.getElementById('total').textContent = data.total.toLocaleString();
-                const date = new Date(data.updated_at);
-                document.getElementById('updated').textContent = 
-                    'Обновлено: ' + date.toLocaleDateString('ru-RU', {day: 'numeric', month: 'long', year: 'numeric'});
-            });
-    </script>
 </body>
 </html>
