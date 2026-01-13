@@ -1,1192 +1,1067 @@
 {
   "city": "goa",
-  "total": 61,
-  "updated_at": "2026-01-10T06:20:36.472239",
+  "total": 54,
+  "updated_at": "2026-01-14T05:49:55.746643",
   "events": [
     {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-10T13:30:00Z",
-      "idPlace": "ChIJ1yAsfE7vvzsR4Y8lrsMIcRA",
-      "docId": "01Btxk06gFdQoGzV5OOg",
-      "toDate": "2026-01-10T17:30:00Z",
-      "tribe": "goa",
       "eventDates": [
-        "100126"
+        "150126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fyza3Ax78zyD1YmZQTcRs%2Ffull_a1bd7410-5efd-11f0-98e1-996a2ca2504e?alt=media&token=b7f1caae-21f5-4ecf-bf51-808b1338c475",
-      "title": "Pulse/Ctrl",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fyza3Ax78zyD1YmZQTcRs%2Ffull_a1bd7410-5efd-11f0-98e1-996a2ca2504e?alt=media&token=b7f1caae-21f5-4ecf-bf51-808b1338c475",
-      "id": "01Btxk06gFdQoGzV5OOg"
-    },
-    {
-      "description": "Garden Grooves Sunday Special at Saltamontes with The Lojal Experience and Guests\n\nJoin us for a magical evening at Saltamontes as The Lojal Experience and special guests light up the night with their eclectic beats and soulful rhythms! Under the stars and surrounded by the lush Goan greens, grab your favorite drink and let the music set the perfect mood for an unforgettable night.\n\nCome for the live music, stay for the electrifying atmosphere, and make it an evening filled with good vibes, great tunes, and memories that will last long after the night ends!",
-      "publishStatus": -1,
-      "entryFee": 400,
-      "viewsCount": 35,
-      "fromDate": "2026-01-11T14:30:00Z",
-      "idPlace": "ChIJia63fmHrvzsRE1n9X-e-pSs",
-      "countFollowers": 60,
-      "docId": "033MwlRLp5dQ35jRHS3S",
-      "toDate": "2026-01-11T17:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "110126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FtnUACAfg0r8rdPFEI9Ih%2Ffull_8a69c220-89fe-11ef-8285-8155d38154b1?alt=media&token=af68b51e-cfc0-4ac1-b911-b71984b855aa",
-      "title": "Garden Grooves",
-      "listTags": [
-        "Electro House"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FtnUACAfg0r8rdPFEI9Ih%2Ffull_8a69c220-89fe-11ef-8285-8155d38154b1?alt=media&token=af68b51e-cfc0-4ac1-b911-b71984b855aa",
-      "id": "033MwlRLp5dQ35jRHS3S"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-11T14:30:00Z",
-      "idPlace": "ChIJgY8JnYTpvzsR0Avj5WFz8zc",
-      "countFollowers": 4,
-      "docId": "08VOkAUGthbCweC4mTfe",
-      "toDate": "2026-01-11T17:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "110126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FdEJJX5Sm83Zk2Qc3Vls3%2Ffull_13b85f30-f59f-11ef-bd16-b1e3bf85adf1?alt=media&token=de466424-b56e-448f-8605-cb6d6292ef1d",
-      "title": "Taco Carnival",
-      "listTags": [
-        "Brunch"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FdEJJX5Sm83Zk2Qc3Vls3%2Ffull_13b85f30-f59f-11ef-bd16-b1e3bf85adf1?alt=media&token=de466424-b56e-448f-8605-cb6d6292ef1d",
-      "id": "08VOkAUGthbCweC4mTfe"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F78cfdef2-2e22-4f26-ae77-906026be6862%2Fthumb_78cfdef2-2e22-4f26-ae77-906026be6862?alt=media&token=2b3f53b9-988c-4660-bbfa-54a16c9c369a",
+      "title": "Acoustic Afternoon",
       "fromDate": "2026-01-15T07:30:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
       "idPlace": "ChIJjwB9emy0vzsRLgJZtqxrAEk",
       "docId": "094OGDzAp2Ak40h2DdPA",
       "toDate": "2026-01-15T12:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "150126"
-      ],
       "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F78cfdef2-2e22-4f26-ae77-906026be6862%2Ffull_78cfdef2-2e22-4f26-ae77-906026be6862?alt=media&token=c58a356e-d7c8-443b-915b-024006f5b56a",
-      "title": "Acoustic Afternoon",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F78cfdef2-2e22-4f26-ae77-906026be6862%2Fthumb_78cfdef2-2e22-4f26-ae77-906026be6862?alt=media&token=2b3f53b9-988c-4660-bbfa-54a16c9c369a",
       "id": "094OGDzAp2Ak40h2DdPA"
     },
     {
+      "eventDates": [
+        "160126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FVmVukNduvCgIGTJZPrGj%2Ffull_240f3150-8d45-11ef-bff5-8db4b4ec0034?alt=media&token=7207f006-ad55-4a1a-aac7-4cfeca75196e",
+      "title": "Stanley Live",
+      "listTags": [
+        "Live Concert",
+        "Bar",
+        "Cocktails"
+      ],
+      "fromDate": "2026-01-16T14:30:00Z",
+      "countFollowers": 10,
+      "tribe": "goa",
       "publishStatus": -1,
       "entryFee": -1,
-      "fromDate": "2026-01-15T15:30:00Z",
-      "idPlace": "ChIJRaIZo_3pvzsRKSsOZASwiKc",
-      "docId": "0ASeS5dG3lq3E2rCYVkh",
-      "toDate": "2026-01-15T19:30:00Z",
-      "tribe": "goa",
+      "idPlace": "ChIJT7nCtYzpvzsRTkePp-z7P8I",
+      "docId": "09WoZRIB64TihLgOSfP0",
+      "toDate": "2026-01-16T17:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FVmVukNduvCgIGTJZPrGj%2Ffull_240f3150-8d45-11ef-bff5-8db4b4ec0034?alt=media&token=7207f006-ad55-4a1a-aac7-4cfeca75196e",
+      "id": "09WoZRIB64TihLgOSfP0"
+    },
+    {
       "eventDates": [
         "150126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fa3823c71-eba4-48da-b11d-50f8d11bdf59%2Ffull_9c587b70-dc0f-11f0-bb61-f1034cda8b0b?alt=media&token=9606b14d-1f8c-4478-a87a-255d294402be",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fa3823c71-eba4-48da-b11d-50f8d11bdf59%2Fthumb_9c5bfde0-dc0f-11f0-bb61-f1034cda8b0b?alt=media&token=2244b88e-f9db-4bf5-9f56-083b1464666f",
       "title": "Karaoke Thursday",
       "listTags": [
         "Karaoke"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fa3823c71-eba4-48da-b11d-50f8d11bdf59%2Fthumb_9c5bfde0-dc0f-11f0-bb61-f1034cda8b0b?alt=media&token=2244b88e-f9db-4bf5-9f56-083b1464666f",
+      "fromDate": "2026-01-15T15:30:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJRaIZo_3pvzsRKSsOZASwiKc",
+      "docId": "0ASeS5dG3lq3E2rCYVkh",
+      "toDate": "2026-01-15T19:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fa3823c71-eba4-48da-b11d-50f8d11bdf59%2Ffull_9c587b70-dc0f-11f0-bb61-f1034cda8b0b?alt=media&token=9606b14d-1f8c-4478-a87a-255d294402be",
       "id": "0ASeS5dG3lq3E2rCYVkh"
     },
     {
+      "eventDates": [
+        "190126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fe01ec056-1872-44e3-b049-c77a7022aabd%2Fthumb_e01ec056-1872-44e3-b049-c77a7022aabd?alt=media&token=62eac2d7-04ce-4f04-9628-3bd3a9730972",
+      "title": "Psylent Waves",
+      "fromDate": "2026-01-19T11:30:00Z",
+      "countFollowers": 1,
+      "tribe": "goa",
       "publishStatus": -1,
       "entryFee": -1,
-      "fromDate": "2026-01-11T16:30:00Z",
-      "idPlace": "ChIJgwqfBFDrvzsR8WOgekUWW9c",
-      "docId": "0B9a2qTyZliCznG3QFKW",
-      "toDate": "2026-01-11T19:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "110126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fead7236e-139e-4a6e-9ddd-031bcfe9f14b%2Ffull_c7785610-6b0b-11f0-a466-6b46f7b6c4e9?alt=media&token=49b9767d-9d95-46ea-acdf-95473c3ea091",
-      "title": "Sunday Sound Scapes",
-      "listTags": [
-        "DJ",
-        "Nightclub"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fead7236e-139e-4a6e-9ddd-031bcfe9f14b%2Fthumb_c77a2ad0-6b0b-11f0-a466-6b46f7b6c4e9?alt=media&token=4a4d1eda-7050-47ed-80d4-4dc21a96fe00",
-      "id": "0B9a2qTyZliCznG3QFKW"
+      "idPlace": "ChIJ2wpLSLPvvzsR8FAE4aPLr_4",
+      "docId": "0B2wyUYft7PEg7vm3ypy",
+      "toDate": "2026-01-19T16:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fe01ec056-1872-44e3-b049-c77a7022aabd%2Ffull_e01ec056-1872-44e3-b049-c77a7022aabd?alt=media&token=1defb93b-c97b-40a8-92cd-feb3c0652f27",
+      "id": "0B2wyUYft7PEg7vm3ypy"
     },
     {
-      "description": "✨ Welcome to The Mount Sessions ✨\nYour weekly Saturday night affair under the stars 🌌\n\n🎶 Shābdha aka Audio Monk takes over the decks, serving up fresh, unheard sounds across multiple genres. Expect deep, immersive grooves that keep you moving all night long.\n\n📍 The Mount – our beautiful open-air venue\n🕗 Doors open 8 PM | Every Saturday\n\nCome early, dance late, and lose yourself in the music. See you at the summit! 💜",
+      "eventDates": [
+        "180126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FwbtuIp8Aw9XFeOdG06FI%2Ffull_2d721630-dbc0-11ef-86b6-9bf87fe854d3?alt=media&token=230af632-a56d-4663-a4cc-6e48af5d6827",
+      "title": "Republic Brunch",
+      "listTags": [
+        "DJ",
+        "Weekend"
+      ],
+      "fromDate": "2026-01-18T17:30:00Z",
+      "tribe": "goa",
       "publishStatus": -1,
       "entryFee": -1,
-      "fromDate": "2026-01-10T14:30:00Z",
-      "idPlace": "ChIJ9_SiIwBbvjsRB8mD2giBLaE",
-      "countFollowers": 1,
-      "docId": "0BghSerXSTn5hcmGdtBB",
-      "toDate": "2026-01-10T20:30:00Z",
-      "tribe": "goa",
+      "idPlace": "ChIJOWJxbOjpvzsRXKPt4KYxAqE",
+      "docId": "0BCas0iNQrMPN1Ppfrtq",
+      "toDate": "2026-01-18T23:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FwbtuIp8Aw9XFeOdG06FI%2Ffull_2d721630-dbc0-11ef-86b6-9bf87fe854d3?alt=media&token=230af632-a56d-4663-a4cc-6e48af5d6827",
+      "id": "0BCas0iNQrMPN1Ppfrtq"
+    },
+    {
       "eventDates": [
-        "100126"
+        "160126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fea4faa7d-8de6-4b85-a648-509f4b2bc0fa%2Ffull_81770610-ab2b-11f0-bfe5-15425627f515?alt=media&token=c676ed8e-4a65-4169-a523-378ef4a57cce",
-      "title": "The Mount Seesions",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F9cbe2200-6433-11ee-be3a-316c2d81ba76%2Ffull_aa943d50-5632-11ef-ac8e-494abf703899?alt=media&token=d86c5fdc-30e6-4cad-8322-361f2546fefc",
+      "title": "Karaoke Night With CYRUS",
+      "viewsCount": 1,
+      "fromDate": "2026-01-16T13:30:00Z",
+      "countFollowers": 2,
+      "tribe": "goa",
+      "publishStatus": -1,
+      "idPlace": "ChIJn-Ap31S5vzsRq-Ny6VScnKA",
+      "docId": "0BI52yGqEIr8H6OkxcX0",
+      "toDate": "2026-01-16T18:00:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F9cbe2200-6433-11ee-be3a-316c2d81ba76%2Ffull_aa943d50-5632-11ef-ac8e-494abf703899?alt=media&token=d86c5fdc-30e6-4cad-8322-361f2546fefc",
+      "description": "Come & enjoy delicious Asian food with sushi dimsums and steak while you listen to live music by Cryus or you sing along with him.",
+      "id": "0BI52yGqEIr8H6OkxcX0"
+    },
+    {
+      "eventDates": [
+        "160126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F739837b2-f892-4946-8295-26b108068ef3%2Fthumb_739837b2-f892-4946-8295-26b108068ef3?alt=media&token=8f62375c-9eb5-4885-8afc-747b1dd27e86",
+      "title": "Folk Music & Dance",
+      "fromDate": "2026-01-16T11:30:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJV_wWCAbpvzsRS79HhTwtJrI",
+      "docId": "0IbpKhw3BS4aEXTcy68K",
+      "toDate": "2026-01-16T16:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F739837b2-f892-4946-8295-26b108068ef3%2Ffull_739837b2-f892-4946-8295-26b108068ef3?alt=media&token=e3d43266-4c03-4914-a915-b6355f5cb380",
+      "id": "0IbpKhw3BS4aEXTcy68K"
+    },
+    {
+      "eventDates": [
+        "180126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Ffe7b2bbe-0cb6-4027-ab7f-477da350d7ef%2Ffull_592d18e0-abb6-11ef-af31-89edb11f5958?alt=media&token=0e042dc2-5b68-4b53-ab8a-57ba5ce9fcba",
+      "title": "Sunday Soul Session",
+      "fromDate": "2026-01-18T06:30:00Z",
+      "countFollowers": 1,
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJT5wU9YDvvzsRnNlgGqFwynw",
+      "docId": "0JrLeQKrWZlaRzMDimYi",
+      "toDate": "2026-01-18T12:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Ffe7b2bbe-0cb6-4027-ab7f-477da350d7ef%2Ffull_592d18e0-abb6-11ef-af31-89edb11f5958?alt=media&token=0e042dc2-5b68-4b53-ab8a-57ba5ce9fcba",
+      "id": "0JrLeQKrWZlaRzMDimYi"
+    },
+    {
+      "eventDates": [
+        "180126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F14021d3c-add6-4871-8d27-4f1c55a02f12%2Fthumb_14021d3c-add6-4871-8d27-4f1c55a02f12?alt=media&token=2d0c9364-b04d-452d-a9e5-b8438e3f147d",
+      "title": "Sunday Night",
+      "fromDate": "2026-01-18T14:00:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJ63OMA6XBvzsR-JjOXMHvqnc",
+      "docId": "0OyxXN0VKvZtwh8D7G4D",
+      "toDate": "2026-01-18T16:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F14021d3c-add6-4871-8d27-4f1c55a02f12%2Ffull_14021d3c-add6-4871-8d27-4f1c55a02f12?alt=media&token=ebfaed63-f1ea-4876-ade7-3245b9111892",
+      "id": "0OyxXN0VKvZtwh8D7G4D"
+    },
+    {
+      "eventDates": [
+        "170126"
+      ],
+      "picture_thumbnail": "https://storage.googleapis.com/partyhunt-production.appspot.com/eventsPicture/e9ba9d34-e00a-4976-8e92-bdd4c93c7fee/thumb_e9ba9d34-e00a-4976-8e92-bdd4c93c7fee?GoogleAccessId=firebase-adminsdk-x31vh%40partyhunt-production.iam.gserviceaccount.com&Expires=2531088000&Signature=T4DMCagT8HkINp2uvWBS4oC8xNJJmXpf5kiOJ9zAAIemcpARmF2OwfND76ciZcn3cwpGHy6wAPA%2Bs7h01IMRIbppWPcD0XLJYButWB2XFar%2BMM21JFDjNCRKfcO1haUFJ8yVAXLOfGRI5IrdYVFUHnGP3cEfHCzpaMu7BbDJpVJ6cnNfsr%2B8YvaESaFKVa3vdEbLTC0HNeTqsn1I3XF3AtQ3W4NUUMxg7FklR%2BmLJqD1u0ptxzfis%2FYt3CzV8n%2FzZ%2Fl9bS6488kIrGj%2BMs97eoFkYrPWAYuFb1DFsRmcDgOLjEt6GJudunNEQOjkw7FI6c2RCTFnTuQxFGPTISrAgg%3D%3D",
+      "title": "Quantum Psync",
       "listTags": [
         "Psytrance",
         "Techno",
-        "House"
+        "DJ"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fea4faa7d-8de6-4b85-a648-509f4b2bc0fa%2Fthumb_81799e20-ab2b-11f0-bfe5-15425627f515?alt=media&token=d6063b83-4477-4112-bb93-1a7dd545d0e6",
-      "id": "0BghSerXSTn5hcmGdtBB"
-    },
-    {
+      "fromDate": "2026-01-17T11:30:00Z",
+      "countFollowers": 2,
+      "tribe": "goa",
       "publishStatus": -1,
       "entryFee": -1,
-      "viewsCount": 5,
-      "fromDate": "2026-01-10T14:30:00Z",
-      "idPlace": "ChIJr6OkSAS3vzsRy5NPdGQpSgw",
-      "countFollowers": 1,
-      "docId": "0I5bkWeIMoaskdGH4fzl",
-      "toDate": "2026-01-10T17:30:00Z",
-      "tribe": "goa",
+      "idPlace": "ChIJS3HixR7svzsR3vBWBm_CxW4",
+      "docId": "0PvWmB11coQQqCMiFvGi",
+      "toDate": "2026-01-17T16:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fe9ba9d34-e00a-4976-8e92-bdd4c93c7fee%2Ffull_a8b67730-e409-1056-80a2-8fb9a95f9720?alt=media&token=687adb9e-c24e-4548-8496-25209f6bd1d8",
+      "id": "0PvWmB11coQQqCMiFvGi"
+    },
+    {
       "eventDates": [
-        "100126"
+        "170126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F6whTL3OHjQek867UZIB9%2Ffull_8ad53dc0-578d-1fc2-9287-75bdd2a67e4c?alt=media&token=7b2b3d00-519b-48d7-b511-03422e02d7a6",
-      "title": "Open Mic",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F6whTL3OHjQek867UZIB9%2Fthumb_1a87a200-5784-1fc2-9287-75bdd2a67e4c?alt=media&token=a6003137-a64e-4f7a-84fa-b8a60fc098cf",
-      "id": "0I5bkWeIMoaskdGH4fzl"
-    },
-    {
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F4c041884-5c9e-4a98-b478-acf3137fcc17%2Fthumb_4c041884-5c9e-4a98-b478-acf3137fcc17?alt=media&token=e96ecacf-9c39-4e56-887f-8743cc647b38",
+      "title": "Tetouze Live",
+      "fromDate": "2026-01-17T11:30:00Z",
+      "tribe": "goa",
       "publishStatus": -1,
       "entryFee": -1,
-      "fromDate": "2026-01-11T14:00:00Z",
-      "idPlace": "ChIJUUTr_trrvzsRL2z4B_kYxH4",
-      "docId": "0RwReBhTtcehurNugEci",
-      "toDate": "2026-01-11T16:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "110126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F086a26cd-a801-4ffa-a065-a4cf1e047461%2Ffull_f06999d0-1061-11f0-9262-b37ddc136926?alt=media&token=6f3dc56a-7934-472d-8e59-111ab97bb485",
-      "title": "Live Screening",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F086a26cd-a801-4ffa-a065-a4cf1e047461%2Ffull_f06999d0-1061-11f0-9262-b37ddc136926?alt=media&token=6f3dc56a-7934-472d-8e59-111ab97bb485",
-      "id": "0RwReBhTtcehurNugEci"
+      "idPlace": "ChIJI4usOQDvvzsRS61WElaLOnY",
+      "docId": "0QPWG9CmZE6pYzKLCBUV",
+      "toDate": "2026-01-17T16:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F4c041884-5c9e-4a98-b478-acf3137fcc17%2Ffull_4c041884-5c9e-4a98-b478-acf3137fcc17?alt=media&token=e9588dd9-e3ed-4059-b763-ac0c11783909",
+      "id": "0QPWG9CmZE6pYzKLCBUV"
     },
     {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-15T14:30:00Z",
-      "idPlace": "ChIJbeTyhbm1vzsR9hFZ1irB-WQ",
-      "docId": "0S9wOtGa9mylH5PrfruL",
-      "toDate": "2026-01-15T17:30:00Z",
-      "tribe": "goa",
       "eventDates": [
         "150126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FMYFWjMIUwnwV55yXFTqm%2Ffull_4d700850-5efd-11f0-98e1-996a2ca2504e?alt=media&token=8c34a1f9-9ec9-409f-9ffc-5cd6de855c62",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FMYFWjMIUwnwV55yXFTqm%2Ffull_4d700850-5efd-11f0-98e1-996a2ca2504e?alt=media&token=8c34a1f9-9ec9-409f-9ffc-5cd6de855c62",
       "title": "Live Concert",
       "listTags": [
         "Live Concert"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FMYFWjMIUwnwV55yXFTqm%2Ffull_4d700850-5efd-11f0-98e1-996a2ca2504e?alt=media&token=8c34a1f9-9ec9-409f-9ffc-5cd6de855c62",
+      "fromDate": "2026-01-15T14:30:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJbeTyhbm1vzsR9hFZ1irB-WQ",
+      "docId": "0S9wOtGa9mylH5PrfruL",
+      "toDate": "2026-01-15T17:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FMYFWjMIUwnwV55yXFTqm%2Ffull_4d700850-5efd-11f0-98e1-996a2ca2504e?alt=media&token=8c34a1f9-9ec9-409f-9ffc-5cd6de855c62",
       "id": "0S9wOtGa9mylH5PrfruL"
     },
     {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-13T15:30:00Z",
-      "idPlace": "ChIJpwliNwLrvzsRCajwwNpkLyQ",
-      "countFollowers": 5,
-      "docId": "0SVYmLhMaeMgsDubrFY5",
-      "toDate": "2026-01-13T20:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "130126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F7abd579b-2c34-490e-87c6-d9539726cae1%2Ffull_7abd579b-2c34-490e-87c6-d9539726cae1?alt=media&token=841476f4-028e-4c14-8dcb-b2741261890f",
-      "title": "Fire & Ice",
-      "listTags": [
-        "DJ"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F7abd579b-2c34-490e-87c6-d9539726cae1%2Fthumb_7abd579b-2c34-490e-87c6-d9539726cae1?alt=media&token=39568136-9242-4308-bbaa-bc74a3ebb046",
-      "id": "0SVYmLhMaeMgsDubrFY5"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-11T14:30:00Z",
-      "idPlace": "ChIJaR0pluzrvzsRUXi53nDOsJk",
-      "countFollowers": 41,
-      "docId": "0SkCrSBsEGKawqDKSSph",
-      "toDate": "2026-01-11T18:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "110126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F90Af5B27gB4UDyknOrAN%2Ffull_13ece7d0-6875-11ef-aebd-71592a6d18b1?alt=media&token=ea3bda55-fb32-41f5-9012-3efb188857b3",
-      "title": "Open Decks",
-      "listTags": [
-        "Techno",
-        "DJ"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F90Af5B27gB4UDyknOrAN%2Ffull_13ece7d0-6875-11ef-aebd-71592a6d18b1?alt=media&token=ea3bda55-fb32-41f5-9012-3efb188857b3",
-      "id": "0SkCrSBsEGKawqDKSSph"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-14T06:30:00Z",
-      "idPlace": "ChIJjed0jLTrvzsRJHr-ivuwbXs",
-      "docId": "0SkmtK5PHXsNiAcE1yFY",
-      "toDate": "2026-01-14T11:30:00Z",
-      "tribe": "goa",
       "eventDates": [
         "140126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F474a6f4d-3a84-451d-bd9b-e6cd63333075%2Ffull_ca892ea0-c28d-11ef-99b3-8ba568e26d61?alt=media&token=f7bc3179-8804-4100-b264-ec8572a63733",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F474a6f4d-3a84-451d-bd9b-e6cd63333075%2Ffull_ca892ea0-c28d-11ef-99b3-8ba568e26d61?alt=media&token=f7bc3179-8804-4100-b264-ec8572a63733",
       "title": "Christmas Special",
       "listTags": [
         "Live Concert"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F474a6f4d-3a84-451d-bd9b-e6cd63333075%2Ffull_ca892ea0-c28d-11ef-99b3-8ba568e26d61?alt=media&token=f7bc3179-8804-4100-b264-ec8572a63733",
+      "fromDate": "2026-01-14T06:30:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJjed0jLTrvzsRJHr-ivuwbXs",
+      "docId": "0SkmtK5PHXsNiAcE1yFY",
+      "toDate": "2026-01-14T11:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F474a6f4d-3a84-451d-bd9b-e6cd63333075%2Ffull_ca892ea0-c28d-11ef-99b3-8ba568e26d61?alt=media&token=f7bc3179-8804-4100-b264-ec8572a63733",
       "id": "0SkmtK5PHXsNiAcE1yFY"
     },
     {
+      "eventDates": [
+        "170126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F4d667014-b098-4441-91aa-4ffe8021ecc2%2Fthumb_4d667014-b098-4441-91aa-4ffe8021ecc2?alt=media&token=9e7ff153-01fa-412c-81a9-72a587644539",
+      "title": "The Saturday Show",
+      "listTags": [
+        "Live Concert"
+      ],
+      "viewsCount": 78,
+      "fromDate": "2026-01-17T14:00:00Z",
+      "countFollowers": 18,
+      "tribe": "goa",
       "publishStatus": -1,
       "entryFee": -1,
-      "fromDate": "2026-01-11T14:30:00Z",
-      "idPlace": "ChIJt-2oH4DrvzsRUYT67Y0yjmY",
-      "docId": "0Y8O85fNeb83vIMMzQ9U",
-      "toDate": "2026-01-11T17:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "110126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fbe76ac72-4d5f-40bd-8329-e567116826be%2Ffull_6def7fe0-d90d-11f0-8d25-75d01f3e17b2?alt=media&token=45682a0c-1d3b-4f0f-b8a8-d5e80048dc6a",
-      "title": "Mehfil E Ruhani",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fbe76ac72-4d5f-40bd-8329-e567116826be%2Fthumb_6df23f00-d90d-11f0-8d25-75d01f3e17b2?alt=media&token=4c1214fa-2dab-486a-ba2d-ed103f92beec",
-      "id": "0Y8O85fNeb83vIMMzQ9U"
+      "idPlace": "ChIJ3S2PVHS1vzsRrIX7vfYczsI",
+      "docId": "0Zt99Rq64qWru3bfDbZa",
+      "toDate": "2026-01-17T17:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F4d667014-b098-4441-91aa-4ffe8021ecc2%2Ffull_4d667014-b098-4441-91aa-4ffe8021ecc2?alt=media&token=bdc4f115-d414-4839-96ce-62ac1e998140",
+      "id": "0Zt99Rq64qWru3bfDbZa"
     },
     {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-15T16:30:00Z",
-      "idPlace": "ChIJrf1dRQDpvzsRXTvDXyqL95o",
-      "countFollowers": 2,
-      "docId": "0bDOQfAZptr37e44KSU5",
-      "toDate": "2026-01-15T19:30:00Z",
-      "tribe": "goa",
       "eventDates": [
         "150126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FQJNaWT8Kl9GRPgMK9lhs%2Ffull_1b6f7ac0-a7d8-11ef-9087-7141d888aefb?alt=media&token=9b9b145e-4c6e-4cb5-8f1f-360f4f66db6d",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FQJNaWT8Kl9GRPgMK9lhs%2Ffull_1b6f7ac0-a7d8-11ef-9087-7141d888aefb?alt=media&token=9b9b145e-4c6e-4cb5-8f1f-360f4f66db6d",
       "title": "Night On Orbit",
       "listTags": [
         "DJ"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FQJNaWT8Kl9GRPgMK9lhs%2Ffull_1b6f7ac0-a7d8-11ef-9087-7141d888aefb?alt=media&token=9b9b145e-4c6e-4cb5-8f1f-360f4f66db6d",
+      "fromDate": "2026-01-15T16:30:00Z",
+      "countFollowers": 2,
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJrf1dRQDpvzsRXTvDXyqL95o",
+      "docId": "0bDOQfAZptr37e44KSU5",
+      "toDate": "2026-01-15T19:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FQJNaWT8Kl9GRPgMK9lhs%2Ffull_1b6f7ac0-a7d8-11ef-9087-7141d888aefb?alt=media&token=9b9b145e-4c6e-4cb5-8f1f-360f4f66db6d",
       "id": "0bDOQfAZptr37e44KSU5"
     },
     {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "viewsCount": 3,
-      "fromDate": "2026-01-10T15:30:00Z",
-      "idPlace": "ChIJgY8JnYTpvzsR0Avj5WFz8zc",
-      "countFollowers": 3,
-      "docId": "0dQhoW8QUtfbFWkbyOMX",
-      "toDate": "2026-01-10T17:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "100126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F5589243c-57d3-4ba2-83f3-549a416a48d2%2Ffull_5589243c-57d3-4ba2-83f3-549a416a48d2?alt=media&token=e53c9248-62e0-42c8-8239-62f95309f3db",
-      "title": "Saturday Groove",
-      "listTags": [
-        "Screening"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F5589243c-57d3-4ba2-83f3-549a416a48d2%2Fthumb_5589243c-57d3-4ba2-83f3-549a416a48d2?alt=media&token=ea04a27a-ef92-4bb1-8973-6282e5b86d2e",
-      "id": "0dQhoW8QUtfbFWkbyOMX"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-11T11:00:00Z",
-      "idPlace": "ChIJPY_cF1FFvjsRIplAUIzFCQo",
-      "docId": "0eEgwIcxyRn3sJRlbZ8y",
-      "toDate": "2026-01-11T17:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "110126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fa9a0c5a4-0fb6-4dce-9e51-d23b86315beb%2Ffull_ae2a5280-a120-11f0-b055-85ded9d52476?alt=media&token=ea69bf26-a699-4185-8333-c4dc2dc14ae2",
-      "title": "Live Screening",
-      "listTags": [
-        "Live Concert"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fa9a0c5a4-0fb6-4dce-9e51-d23b86315beb%2Fthumb_ae2cc380-a120-11f0-b055-85ded9d52476?alt=media&token=2ef71354-2a70-4660-ad27-3ba8a419c604",
-      "id": "0eEgwIcxyRn3sJRlbZ8y"
-    },
-    {
-      "description": "House of Chapora Season Opener Gathering .\nMark your calendars and get ready for the most awaited event of the season! HOC kicks off on August 7th with a spectacular party that promises to be nothing short of magical. Lose yourself in the pulsating rhythms and let the music take you on a journey. 💃\n\nA fully revamped dance floor and some stunning artwork by local and international artists add another dimension to the already stunning venue. Be mesmerized by our incredible fire shows and breathtaking LED displays that will leave you in awe. Indulge in signature cocktails crafted with care and immerse yourself in the lively ambience. \n\nThis is more than an opening party; it’s a celebration of community and the spirit of Chapora. ✨\n\nPrepare to groove to the sounds of :\n\nAudio Units \n(Observant / Dynamic Reflection,ind)\n\nSkywalkers (ind)\n\nNarci88ist (ind)\n\nSpot (ind)\n\nLeee (ind)\n\nSupported by our Resident DJs, dive into the rhythm and let the music set you free!",
-      "publishStatus": -1,
-      "entryFee": -1,
-      "viewsCount": 52,
-      "fromDate": "2026-01-14T14:30:00Z",
-      "isFeatured": true,
-      "idPlace": "ChIJT4BybmPpvzsRKm5GP2MUHk8",
-      "countFollowers": 60,
-      "docId": "0eZIjaGKFUWwGuAjvyBM",
-      "toDate": "2026-01-15T00:30:00Z",
-      "tribe": "goa",
       "eventDates": [
         "140126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FHZzv986Z2ylXF4ksT0LW%2Ffull_61ea7c30-508e-11ef-9e68-53b87ed02a5b?alt=media&token=825b1a65-f3e4-4c86-8934-3714c73ca0e0",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FHZzv986Z2ylXF4ksT0LW%2Ffull_61ea7c30-508e-11ef-9e68-53b87ed02a5b?alt=media&token=825b1a65-f3e4-4c86-8934-3714c73ca0e0",
       "title": "Season Opening",
       "listTags": [
         "Techno"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FHZzv986Z2ylXF4ksT0LW%2Ffull_61ea7c30-508e-11ef-9e68-53b87ed02a5b?alt=media&token=825b1a65-f3e4-4c86-8934-3714c73ca0e0",
+      "viewsCount": 52,
+      "fromDate": "2026-01-14T14:30:00Z",
+      "countFollowers": 60,
+      "isFeatured": true,
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJT4BybmPpvzsRKm5GP2MUHk8",
+      "docId": "0eZIjaGKFUWwGuAjvyBM",
+      "toDate": "2026-01-15T00:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FHZzv986Z2ylXF4ksT0LW%2Ffull_61ea7c30-508e-11ef-9e68-53b87ed02a5b?alt=media&token=825b1a65-f3e4-4c86-8934-3714c73ca0e0",
+      "description": "House of Chapora Season Opener Gathering .\nMark your calendars and get ready for the most awaited event of the season! HOC kicks off on August 7th with a spectacular party that promises to be nothing short of magical. Lose yourself in the pulsating rhythms and let the music take you on a journey. 💃\n\nA fully revamped dance floor and some stunning artwork by local and international artists add another dimension to the already stunning venue. Be mesmerized by our incredible fire shows and breathtaking LED displays that will leave you in awe. Indulge in signature cocktails crafted with care and immerse yourself in the lively ambience. \n\nThis is more than an opening party; it’s a celebration of community and the spirit of Chapora. ✨\n\nPrepare to groove to the sounds of :\n\nAudio Units \n(Observant / Dynamic Reflection,ind)\n\nSkywalkers (ind)\n\nNarci88ist (ind)\n\nSpot (ind)\n\nLeee (ind)\n\nSupported by our Resident DJs, dive into the rhythm and let the music set you free!",
       "id": "0eZIjaGKFUWwGuAjvyBM"
     },
     {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "viewsCount": 81,
-      "fromDate": "2026-01-11T13:30:00Z",
-      "idPlace": "ChIJfXdOOLXBvzsR06WADKBFOB8",
-      "countFollowers": 60,
-      "docId": "0elnLG1jOjuVwqIa5EwS",
-      "toDate": "2026-01-11T17:30:00Z",
-      "tribe": "goa",
       "eventDates": [
-        "110126"
+        "170126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FnBAn63EbzIwNuKjHiHUD%2Ffull_415c6e90-054e-11f0-99d6-49b48eca191d?alt=media&token=bd7270b9-93e1-44b9-be49-2aaf70ebabf6",
-      "title": "Live Singing By The Beach",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fdff67ca5-29b5-4f1e-8f66-8e7cc1d1944d%2Fthumb_dff67ca5-29b5-4f1e-8f66-8e7cc1d1944d?alt=media&token=ea15293f-bc3d-4537-8589-7fda2b107f94",
+      "title": "Live Music",
       "listTags": [
         "Live Concert"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FnBAn63EbzIwNuKjHiHUD%2Ffull_415c6e90-054e-11f0-99d6-49b48eca191d?alt=media&token=bd7270b9-93e1-44b9-be49-2aaf70ebabf6",
-      "id": "0elnLG1jOjuVwqIa5EwS"
-    },
-    {
+      "fromDate": "2026-01-17T17:00:00Z",
+      "tribe": "goa",
       "publishStatus": -1,
       "entryFee": -1,
-      "fromDate": "2026-01-15T14:30:00Z",
-      "idPlace": "ChIJbXMfS1jrvzsRGzAqrhxmPQ8",
-      "docId": "0kqsPvCHTB3s8RRB5iY3",
-      "toDate": "2026-01-15T17:30:00Z",
+      "idPlace": "ChIJw75cGgCyvzsRAh4rwQK_9JE",
+      "docId": "0f72JPwc0zMWBcrdvWGX",
+      "toDate": "2026-01-17T19:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fdff67ca5-29b5-4f1e-8f66-8e7cc1d1944d%2Ffull_dff67ca5-29b5-4f1e-8f66-8e7cc1d1944d?alt=media&token=d438289b-e102-46f8-8386-e755b16d56aa",
+      "id": "0f72JPwc0zMWBcrdvWGX"
+    },
+    {
+      "eventDates": [
+        "180126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FlAtojRmkvd75by3ZLXDu%2Ffull_291a4f50-520c-11ef-9604-11e1ecdf58de?alt=media&token=4f6fd5de-5f91-492e-a3a5-8010f1b1d719",
+      "title": "Friends of Analogue",
+      "listTags": [
+        "Live Concert"
+      ],
+      "fromDate": "2026-01-18T14:30:00Z",
+      "countFollowers": 1,
       "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJf5vlkRzrvzsR8MF02SuD7Lw",
+      "docId": "0hEEjjmmRHOriXcanxf2",
+      "toDate": "2026-01-18T17:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FlAtojRmkvd75by3ZLXDu%2Ffull_291a4f50-520c-11ef-9604-11e1ecdf58de?alt=media&token=4f6fd5de-5f91-492e-a3a5-8010f1b1d719",
+      "id": "0hEEjjmmRHOriXcanxf2"
+    },
+    {
+      "eventDates": [
+        "190126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FjdPCPMRyPOQ1wsifeAdB%2Ffull_cac78ce0-c6cf-11ef-abdb-7ba6ec9c6c69?alt=media&token=da3d5656-a591-4c30-8615-0b5fa6fbc494",
+      "title": "Minimal Mania Techno Tour",
+      "listTags": [
+        "Techno",
+        "Rave"
+      ],
+      "viewsCount": 2,
+      "fromDate": "2026-01-19T14:30:00Z",
+      "countFollowers": 60,
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": 500,
+      "idPlace": "ChIJd0b0ZY_pvzsRaf9iaZG0O7g",
+      "docId": "0it9WVROJitxhQZSJkEY",
+      "toDate": "2026-01-20T00:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FjdPCPMRyPOQ1wsifeAdB%2Ffull_cac78ce0-c6cf-11ef-abdb-7ba6ec9c6c69?alt=media&token=da3d5656-a591-4c30-8615-0b5fa6fbc494",
+      "description": "26.02.2024. The party \"Minimal Mania Techno Tour\" is at the Lilliput club! Expect energetic DJ sets, an amazing light installation and a unique theme design. Join us and immerse yourself in the world of music and unsurpassed fun! We will be glad to see you on the dance floor!!!\n\nFeaturing:\n\n🎧MÜRK TENET (@murktenet_official)\n🎧RADIQUE (@radique_official)\n🎧IGOR URAL (@igor_ural)\n🎧ANGELIKA (@angelika_black_fox)\n🎧MIRA (@mirairabat)\n🎧GARUDA (@garuda_official.music)\n🎧PSYHOPHASE (@psyhophase)",
+      "id": "0it9WVROJitxhQZSJkEY"
+    },
+    {
+      "eventDates": [
+        "170126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fe1fb1f3f-c8d2-467d-a220-bcd97e79d010%2Fthumb_924f79a0-8636-1ffc-b905-ebcd0db39b9c?alt=media&token=8f7586cb-c795-4ba0-8d16-5e782119a7b9",
+      "title": "Fire Show",
+      "listTags": [
+        "Fire Show"
+      ],
+      "fromDate": "2026-01-17T14:30:00Z",
+      "countFollowers": 1,
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJfymr3XDpvzsRt2_8N9npepM",
+      "docId": "0jQZ6lYtc4PgInYXWpjl",
+      "toDate": "2026-01-17T17:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fe1fb1f3f-c8d2-467d-a220-bcd97e79d010%2Ffull_274dd330-8641-1ffc-b905-ebcd0db39b9c?alt=media&token=088d2c6b-6a48-4c33-b101-c81647d6ae12",
+      "id": "0jQZ6lYtc4PgInYXWpjl"
+    },
+    {
       "eventDates": [
         "150126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FSavkCbR8MKSvPz7snNsI%2Ffull_ae09d140-4a9b-11ef-8f23-37f6f6e79258?alt=media&token=e861b408-76e5-4552-af60-e147f1dadacb",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FSavkCbR8MKSvPz7snNsI%2Ffull_ae09d140-4a9b-11ef-8f23-37f6f6e79258?alt=media&token=e861b408-76e5-4552-af60-e147f1dadacb",
       "title": "Thursday Extravaganza",
       "listTags": [
         "Live Concert"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FSavkCbR8MKSvPz7snNsI%2Ffull_ae09d140-4a9b-11ef-8f23-37f6f6e79258?alt=media&token=e861b408-76e5-4552-af60-e147f1dadacb",
+      "fromDate": "2026-01-15T14:30:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJbXMfS1jrvzsRGzAqrhxmPQ8",
+      "docId": "0kqsPvCHTB3s8RRB5iY3",
+      "toDate": "2026-01-15T17:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FSavkCbR8MKSvPz7snNsI%2Ffull_ae09d140-4a9b-11ef-8f23-37f6f6e79258?alt=media&token=e861b408-76e5-4552-af60-e147f1dadacb",
       "id": "0kqsPvCHTB3s8RRB5iY3"
     },
     {
+      "eventDates": [
+        "160126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F1391788a-6958-407d-930e-cb2a71f224ac%2Fthumb_36cf4920-cc36-11f0-ab3c-59424a36ca0c?alt=media&token=6a500dcf-5d3e-46c5-8bee-d7190a063374",
+      "title": "Friday Night Vibes",
+      "listTags": [
+        "Live Concert"
+      ],
+      "viewsCount": 10,
+      "fromDate": "2026-01-16T14:30:00Z",
+      "tribe": "goa",
       "publishStatus": -1,
       "entryFee": -1,
-      "fromDate": "2026-01-11T15:30:00Z",
-      "idPlace": "ChIJk3DmHnDpvzsRjr5psM5DCBk",
-      "countFollowers": 1,
-      "docId": "0kwhohsI1emFjPfe2xV7",
-      "toDate": "2026-01-11T17:30:00Z",
-      "tribe": "goa",
+      "idPlace": "ChIJiRnMkvzHvzsRPz2JOH574kU",
+      "docId": "0oE5KyL853BbHz3W5RiF",
+      "toDate": "2026-01-16T17:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F1391788a-6958-407d-930e-cb2a71f224ac%2Ffull_36cc14d0-cc36-11f0-ab3c-59424a36ca0c?alt=media&token=58a424b1-3920-4582-acbe-886d843c79bc",
+      "id": "0oE5KyL853BbHz3W5RiF"
+    },
+    {
       "eventDates": [
-        "110126"
+        "160126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FAWjHDFTyMR2AimeDisT4%2Ffull_b7eb0d10-e9d7-11ef-8cd0-63215b71de28?alt=media&token=dcac75a1-9f9d-4d2c-b3e2-038bc31503af",
-      "title": "Bollytech",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F1fac51eb-618b-4286-b8db-8ba3c4c1da57%2Ffull_be8f3d50-16b7-11f0-9f46-3d5d55074f59?alt=media&token=06e6e254-020f-4c84-9a80-b999878cc68e",
+      "title": "Live Screening",
+      "fromDate": "2026-01-16T14:00:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJOWJxbOjpvzsRXKPt4KYxAqE",
+      "docId": "0r0xEYLMgsaKbYYGs9pK",
+      "toDate": "2026-01-16T16:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F1fac51eb-618b-4286-b8db-8ba3c4c1da57%2Ffull_be8f3d50-16b7-11f0-9f46-3d5d55074f59?alt=media&token=06e6e254-020f-4c84-9a80-b999878cc68e",
+      "id": "0r0xEYLMgsaKbYYGs9pK"
+    },
+    {
+      "eventDates": [
+        "160126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fb76acf0a-964f-46e0-8a90-6c11291fc4a2%2Fthumb_fd3f5c60-baf4-11f0-8077-bb4b42410302?alt=media&token=1072309e-acf8-4781-a094-7e93a31a5e5a",
+      "title": "Bar Takeover",
       "listTags": [
         "DJ",
-        "Nightclub"
+        "Weekend",
+        "Day Party"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FAWjHDFTyMR2AimeDisT4%2Ffull_b7eb0d10-e9d7-11ef-8cd0-63215b71de28?alt=media&token=dcac75a1-9f9d-4d2c-b3e2-038bc31503af",
-      "id": "0kwhohsI1emFjPfe2xV7"
-    },
-    {
-      "publishStatus": 1,
-      "entryFee": -1,
-      "fromDate": "2026-01-10T14:30:00Z",
-      "idPlace": "ChIJWUM-d5rrvzsRpCPgq2akWDE",
-      "countFollowers": 4,
-      "docId": "0tgMzma3h7emPsD7icam",
-      "toDate": "2026-01-10T16:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "100126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Ffcfdc5e9-37c4-48fa-a606-8b6959a14483%2Ffull_fcfdc5e9-37c4-48fa-a606-8b6959a14483?alt=media&token=9bfe13a5-7e81-4775-ba79-119c4a03072b",
-      "title": "Level Up",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Ffcfdc5e9-37c4-48fa-a606-8b6959a14483%2Fthumb_fcfdc5e9-37c4-48fa-a606-8b6959a14483?alt=media&token=b54cf7fa-947e-4868-91f4-4c042a1c1fed",
-      "id": "0tgMzma3h7emPsD7icam"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "viewsCount": 23,
-      "fromDate": "2026-01-12T14:00:00Z",
-      "idPlace": "ChIJr-ewUJ7BvzsRkZfHne3HAyw",
-      "countFollowers": 21,
-      "docId": "0zgTcm4NgR2Js96pBGFw",
-      "toDate": "2026-01-12T17:00:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "120126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fm2WO5jd2QRa8aMHumkEB%2Ffull_9220dfb0-b633-11ef-80db-5be42b13ac2d?alt=media&token=a16c74e6-5b24-4b75-b34f-4bef070f8b46",
-      "title": "Live Music",
-      "listTags": [
-        "Retro"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fm2WO5jd2QRa8aMHumkEB%2Ffull_9220dfb0-b633-11ef-80db-5be42b13ac2d?alt=media&token=a16c74e6-5b24-4b75-b34f-4bef070f8b46",
-      "id": "0zgTcm4NgR2Js96pBGFw"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "viewsCount": 1,
-      "fromDate": "2026-01-10T17:30:00Z",
-      "idPlace": "ChIJm2dMYoXAvzsRjIrU3eM38dM",
-      "docId": "101t7M7aeIz4OEwZHNYB",
-      "toDate": "2026-01-10T19:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "100126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FOUHYID1PsKbX1HtLKpfg%2Ffull_3d10dc00-61d8-11ef-acbf-477c3e65e594?alt=media&token=055806a8-51c7-4dbd-856d-c92a1f0b6369",
-      "title": "A.Z.U.R Saturday",
-      "listTags": [
-        "Live Concert",
-        "Karaoke"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FOUHYID1PsKbX1HtLKpfg%2Ffull_3d10dc00-61d8-11ef-acbf-477c3e65e594?alt=media&token=055806a8-51c7-4dbd-856d-c92a1f0b6369",
-      "id": "101t7M7aeIz4OEwZHNYB"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "viewsCount": 16,
-      "fromDate": "2026-01-09T15:30:00Z",
-      "idPlace": "ChIJYziUGqDBvzsROuOGBsGHaDg",
-      "countFollowers": 15,
-      "docId": "10MldVD7kr3kb2tpL5lG",
-      "toDate": "2026-01-09T22:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "090126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F2993d2c7-dce1-4241-a548-3b7bf2529da8%2Ffull_2993d2c7-dce1-4241-a548-3b7bf2529da8?alt=media&token=3ab33d3f-26dc-4372-9ac6-48df930f8df9",
-      "title": "Bollywood Fridays",
-      "listTags": [
-        "Bollywood",
-        "DJ"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F2993d2c7-dce1-4241-a548-3b7bf2529da8%2Fthumb_2993d2c7-dce1-4241-a548-3b7bf2529da8?alt=media&token=1c37c206-d489-4971-ac85-ce15c41cbad6",
-      "id": "10MldVD7kr3kb2tpL5lG"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-12T14:30:00Z",
-      "idPlace": "ChIJEePgCJTBvzsRFHf9lEP2eVY",
+      "fromDate": "2026-01-16T14:30:00Z",
       "countFollowers": 1,
-      "docId": "10loVhTu7erAmgW55tzj",
-      "toDate": "2026-01-12T16:30:00Z",
       "tribe": "goa",
-      "eventDates": [
-        "120126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F1bda7d72-de7e-4234-a125-c419e8082d0e%2Ffull_9d2d95c0-da4e-11f0-a12a-733644e9337f?alt=media&token=32b00034-ad0c-4b60-988e-91760ee02d4c",
-      "title": "Live Music",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F1bda7d72-de7e-4234-a125-c419e8082d0e%2Fthumb_9d30ca10-da4e-11f0-a12a-733644e9337f?alt=media&token=7d969675-1351-4a23-a053-31fc6b488ac3",
-      "id": "10loVhTu7erAmgW55tzj"
-    },
-    {
       "publishStatus": -1,
       "entryFee": -1,
-      "fromDate": "2026-01-14T14:30:00Z",
-      "idPlace": "ChIJ2YngY6JMvjsR_q3w_dZCXEM",
-      "docId": "14Ms7DiFUsYigdvvbspP",
-      "toDate": "2026-01-14T20:30:00Z",
+      "idPlace": "ChIJH505aRzrvzsRLJHXglaeaZc",
+      "docId": "0rg1kXG1iT3jvIqqeKZs",
+      "toDate": "2026-01-16T17:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fb76acf0a-964f-46e0-8a90-6c11291fc4a2%2Ffull_fd3c4f20-baf4-11f0-8077-bb4b42410302?alt=media&token=1982980b-357a-44e6-8935-7616dca5929b",
+      "id": "0rg1kXG1iT3jvIqqeKZs"
+    },
+    {
+      "eventDates": [
+        "160126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FribUYIOONTSX78czoQnE%2Fthumb_ribUYIOONTSX78czoQnE?alt=media&token=eab94222-fba5-4dc9-9436-16483acd2e47",
+      "title": "Tantric Monkeys",
+      "listTags": [
+        "Folk"
+      ],
+      "fromDate": "2026-01-16T13:30:00Z",
+      "countFollowers": 120,
+      "isFeatured": true,
       "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJ2wpLSLPvvzsR8FAE4aPLr_4",
+      "docId": "0u2W7eStakrbmaocGSlE",
+      "toDate": "2026-01-16T18:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FribUYIOONTSX78czoQnE%2Ffull_ribUYIOONTSX78czoQnE?alt=media&token=39cffbe7-aa51-42d7-920b-78cb22081d0b",
+      "id": "0u2W7eStakrbmaocGSlE"
+    },
+    {
+      "eventDates": [
+        "190126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Ffa7ad16b-8fba-4066-8afc-43e71e6d82d2%2Fthumb_fa7ad16b-8fba-4066-8afc-43e71e6d82d2?alt=media&token=7781cb1c-2b2c-4730-89bc-0d3402d04730",
+      "title": "Indian Ocean",
+      "fromDate": "2026-01-19T15:30:00Z",
+      "countFollowers": 4,
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJ3aMs3oHpvzsRmzhjgqFnWSg",
+      "docId": "0wzrDnSnpr0k4G3mvLX2",
+      "toDate": "2026-01-19T19:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Ffa7ad16b-8fba-4066-8afc-43e71e6d82d2%2Ffull_fa7ad16b-8fba-4066-8afc-43e71e6d82d2?alt=media&token=89c6fb80-9f45-4b51-818d-e11ab9cbf49d",
+      "id": "0wzrDnSnpr0k4G3mvLX2"
+    },
+    {
+      "eventDates": [
+        "180126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FsLTpXTH8vnN8NtNh1MwK%2Ffull_942c0be0-1510-11f0-a51f-df8fa578e2f3?alt=media&token=67f9b028-e97e-453d-8abd-f4593a3d9242",
+      "title": "Live Screening",
+      "fromDate": "2026-01-18T14:00:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJU_BQwGjBvzsRWt1LXRKAxa8",
+      "docId": "0xZqYiGx5QaMrfhm55r4",
+      "toDate": "2026-01-18T16:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FsLTpXTH8vnN8NtNh1MwK%2Ffull_942c0be0-1510-11f0-a51f-df8fa578e2f3?alt=media&token=67f9b028-e97e-453d-8abd-f4593a3d9242",
+      "id": "0xZqYiGx5QaMrfhm55r4"
+    },
+    {
+      "eventDates": [
+        "170126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F11fec130-f98c-11ee-8603-adf1c3840cdb%2Fthumb_254ac9a0-f98c-11ee-9643-e50098469358?alt=media&token=f46a347a-3848-4f5a-bde9-562c1ca5e2f3",
+      "title": "IPL Live Streaming",
+      "viewsCount": 1,
+      "fromDate": "2026-01-17T14:30:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJ6T0p4nvpvzsRSRCrRlHyVxI",
+      "docId": "0xy3ouVcAEqNzpC4z0Dw",
+      "toDate": "2026-01-17T17:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F11fec130-f98c-11ee-8603-adf1c3840cdb%2Ffull_22f7b1e0-f98c-11ee-9bbd-a9af664d1fc0?alt=media&token=751630ab-db39-4309-9ab7-47beed85d20f",
+      "id": "0xy3ouVcAEqNzpC4z0Dw"
+    },
+    {
+      "eventDates": [
+        "180126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F6e7d0df4-1f52-4ff3-9d96-975e7c2a4c84%2Ffull_0b85e070-b57c-11ef-8de6-c793b32b5005?alt=media&token=1956cbee-3272-4e72-8699-8495f5ddbe69",
+      "title": "Sunday Gig",
+      "listTags": [
+        "Live Concert"
+      ],
+      "fromDate": "2026-01-18T15:00:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJieK7vrfrvzsRuFWJrujRKPE",
+      "docId": "10dWMsYfbtPfaAIwggNy",
+      "toDate": "2026-01-18T16:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F6e7d0df4-1f52-4ff3-9d96-975e7c2a4c84%2Ffull_0b85e070-b57c-11ef-8de6-c793b32b5005?alt=media&token=1956cbee-3272-4e72-8699-8495f5ddbe69",
+      "id": "10dWMsYfbtPfaAIwggNy"
+    },
+    {
+      "eventDates": [
+        "160126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fkvn0mIGQGprUvHSFNEnN%2Ffull_77646440-ae1c-11ef-9f14-112033ad94a1?alt=media&token=dac505bd-365e-46e4-8c0a-849dd067cb13",
+      "title": "Live Music",
+      "listTags": [
+        "Live Concert"
+      ],
+      "fromDate": "2026-01-16T14:30:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJuyXf6o-3vzsRswwGV9VKFnA",
+      "docId": "133TPIHnpr9I3XA7SRnD",
+      "toDate": "2026-01-16T17:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fkvn0mIGQGprUvHSFNEnN%2Ffull_77646440-ae1c-11ef-9f14-112033ad94a1?alt=media&token=dac505bd-365e-46e4-8c0a-849dd067cb13",
+      "id": "133TPIHnpr9I3XA7SRnD"
+    },
+    {
+      "eventDates": [
+        "170126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F069645ff-02e9-4703-9108-067727e719b5%2Ffull_c9b24500-7365-11f0-a9df-9f3b5d9338b7?alt=media&token=55516452-aeba-41ed-83e1-2c30d3de3d9b",
+      "title": "Live Performances",
+      "fromDate": "2026-01-17T14:30:00Z",
+      "countFollowers": 1,
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJ3_XVVfXpvzsRt5AiEQQfaV8",
+      "docId": "13Qpt9z4dEwJwfQt8upF",
+      "toDate": "2026-01-17T16:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F069645ff-02e9-4703-9108-067727e719b5%2Ffull_c9b24500-7365-11f0-a9df-9f3b5d9338b7?alt=media&token=55516452-aeba-41ed-83e1-2c30d3de3d9b",
+      "id": "13Qpt9z4dEwJwfQt8upF"
+    },
+    {
       "eventDates": [
         "140126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fb6ea3c97-5f86-4e1d-bc28-8a7a9bc07284%2Ffull_b6ea3c97-5f86-4e1d-bc28-8a7a9bc07284?alt=media&token=10aac36f-e48d-4c21-92cb-23ebc836d6d0",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fb6ea3c97-5f86-4e1d-bc28-8a7a9bc07284%2Fthumb_b6ea3c97-5f86-4e1d-bc28-8a7a9bc07284?alt=media&token=ba37ed7c-d90e-4f3f-b380-cb700a2db8fa",
       "title": "New Year Party",
       "listTags": [
         "Live Concert"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fb6ea3c97-5f86-4e1d-bc28-8a7a9bc07284%2Fthumb_b6ea3c97-5f86-4e1d-bc28-8a7a9bc07284?alt=media&token=ba37ed7c-d90e-4f3f-b380-cb700a2db8fa",
+      "fromDate": "2026-01-14T14:30:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJ2YngY6JMvjsR_q3w_dZCXEM",
+      "docId": "14Ms7DiFUsYigdvvbspP",
+      "toDate": "2026-01-14T20:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fb6ea3c97-5f86-4e1d-bc28-8a7a9bc07284%2Ffull_b6ea3c97-5f86-4e1d-bc28-8a7a9bc07284?alt=media&token=10aac36f-e48d-4c21-92cb-23ebc836d6d0",
       "id": "14Ms7DiFUsYigdvvbspP"
     },
     {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-15T11:30:00Z",
-      "idPlace": "ChIJsZJyTWnpvzsRoCWlqFHfYU0",
-      "docId": "1619VyN9lAHayM2ResBO",
-      "toDate": "2026-01-15T17:30:00Z",
-      "tribe": "goa",
       "eventDates": [
         "150126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FtTA6OzxtnTHkAskqcm5Q%2Ffull_tTA6OzxtnTHkAskqcm5Q?alt=media&token=7220dc18-157f-419d-af9e-64e2ed80a50f",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FtTA6OzxtnTHkAskqcm5Q%2Fthumb_tTA6OzxtnTHkAskqcm5Q?alt=media&token=bb670ee6-d2e2-4508-bc7e-560b99f32071",
       "title": "It’s Christmas",
       "listTags": [
         "DJ",
         "Sundowner"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FtTA6OzxtnTHkAskqcm5Q%2Fthumb_tTA6OzxtnTHkAskqcm5Q?alt=media&token=bb670ee6-d2e2-4508-bc7e-560b99f32071",
+      "fromDate": "2026-01-15T11:30:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJsZJyTWnpvzsRoCWlqFHfYU0",
+      "docId": "1619VyN9lAHayM2ResBO",
+      "toDate": "2026-01-15T17:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FtTA6OzxtnTHkAskqcm5Q%2Ffull_tTA6OzxtnTHkAskqcm5Q?alt=media&token=7220dc18-157f-419d-af9e-64e2ed80a50f",
       "id": "1619VyN9lAHayM2ResBO"
     },
     {
-      "description": "Tremors Underground \nPresents \nShamanic Sounds Rituals 6.0\n\nWith the previous editions turning out to be absolute belters ,we think  the time was ripe to \nbring out another edition of Shamanic Sounds Rituals .So here we are with the sixth edition and will a stunning line up .\n\nShamanic Sounds Rituals 6.0\nAug 8 Thursday 9 pm to 6 am  Cub xoxo Anjus\n\nJellyheadz (5th Element,France )\nAndrey-Vorobey\n(Tortuga Festival/World People Production, (Russia )\nMagic Hidden (Paranormal Recs,Iran)\nAbraxsa (Aranyadhwani/rules of nature recs)\nDarko (Dendro Music Tribe ,ind)\nZameer (Goa freaks ,ind)\nVoodoo Pop(ind)\n\nVenue Club Xoxo ,Anjuna  \nDate Aug 8  Thursday   9 pm to 6 am \nMore info 9821042482\n\nTickets at \nhttps://tickets.madvibes.in/product/shamanicsoundgoa/\n\nhttps://idamoss.com/listing/shamanic-sounds-ritual-6-0-aug-08th-goa/\n \nhttps://sortmyscene.com/event/shamanic-sound-rituals-6-0-with-jellybaba-aug-08-2024\n\nhttps://insider.in/shamanic-soundsrituals-60-ft-jellybaba-france-aug8-2024/event",
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-15T15:30:00Z",
-      "idPlace": "ChIJV3hiVdvrvzsRdQkeEVv5B0M",
-      "countFollowers": 22,
-      "docId": "17A1nTXoYDThZ02urhIo",
-      "toDate": "2026-01-16T03:30:00Z",
-      "tribe": "goa",
       "eventDates": [
         "150126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FfUM6hLDHUo4zwcqfENtz%2Ffull_05112b80-51b0-11ef-acef-33c56d681c11?alt=media&token=1e7c83e0-ce13-4ffb-97dc-0eb28a7845a9",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FfUM6hLDHUo4zwcqfENtz%2Ffull_05112b80-51b0-11ef-acef-33c56d681c11?alt=media&token=1e7c83e0-ce13-4ffb-97dc-0eb28a7845a9",
       "title": "Shamanic Sounds Ritual 6.0",
       "listTags": [
         "Psytrance"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FfUM6hLDHUo4zwcqfENtz%2Ffull_05112b80-51b0-11ef-acef-33c56d681c11?alt=media&token=1e7c83e0-ce13-4ffb-97dc-0eb28a7845a9",
+      "fromDate": "2026-01-15T15:30:00Z",
+      "countFollowers": 22,
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJV3hiVdvrvzsRdQkeEVv5B0M",
+      "docId": "17A1nTXoYDThZ02urhIo",
+      "toDate": "2026-01-16T03:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FfUM6hLDHUo4zwcqfENtz%2Ffull_05112b80-51b0-11ef-acef-33c56d681c11?alt=media&token=1e7c83e0-ce13-4ffb-97dc-0eb28a7845a9",
+      "description": "Tremors Underground \nPresents \nShamanic Sounds Rituals 6.0\n\nWith the previous editions turning out to be absolute belters ,we think  the time was ripe to \nbring out another edition of Shamanic Sounds Rituals .So here we are with the sixth edition and will a stunning line up .\n\nShamanic Sounds Rituals 6.0\nAug 8 Thursday 9 pm to 6 am  Cub xoxo Anjus\n\nJellyheadz (5th Element,France )\nAndrey-Vorobey\n(Tortuga Festival/World People Production, (Russia )\nMagic Hidden (Paranormal Recs,Iran)\nAbraxsa (Aranyadhwani/rules of nature recs)\nDarko (Dendro Music Tribe ,ind)\nZameer (Goa freaks ,ind)\nVoodoo Pop(ind)\n\nVenue Club Xoxo ,Anjuna  \nDate Aug 8  Thursday   9 pm to 6 am \nMore info 9821042482\n\nTickets at \nhttps://tickets.madvibes.in/product/shamanicsoundgoa/\n\nhttps://idamoss.com/listing/shamanic-sounds-ritual-6-0-aug-08th-goa/\n \nhttps://sortmyscene.com/event/shamanic-sound-rituals-6-0-with-jellybaba-aug-08-2024\n\nhttps://insider.in/shamanic-soundsrituals-60-ft-jellybaba-france-aug8-2024/event",
       "id": "17A1nTXoYDThZ02urhIo"
     },
     {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-11T11:30:00Z",
-      "idPlace": "ChIJuQFaffvpvzsRNoDnHWSJ-HI",
-      "countFollowers": 3,
-      "docId": "19NUCcO5l7HLtBFP2eNz",
-      "toDate": "2026-01-11T19:30:00Z",
-      "tribe": "goa",
       "eventDates": [
-        "110126"
+        "170126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FC4hH0jyAw00iwc5c5zbP%2Ffull_059de2f0-3922-11f0-8900-13363af57df8?alt=media&token=fc457b93-f74e-4a50-bfe8-9e9be086e56e",
-      "title": "Monsoon Sundowner",
-      "listTags": [
-        "DJ"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FC4hH0jyAw00iwc5c5zbP%2Ffull_059de2f0-3922-11f0-8900-13363af57df8?alt=media&token=fc457b93-f74e-4a50-bfe8-9e9be086e56e",
-      "id": "19NUCcO5l7HLtBFP2eNz"
-    },
-    {
-      "description": "Embracing the vibrant energy of Hangover Saturdays with good friends and even better times. 🎉\n\nLocation\n📍 https://g.co/kgs/cRcpsh1\n\nYou can also watch this reel for the right directions -\n https://www.instagram.com/reel/C1-KhcNLPoQ/?igsh=cXZqMjhhOWluNWEw\n\n Date - 6 July 2024\n\nTime - 7pm onwards.\n\nRSVP here - https://bit.ly/49McCSD",
-      "publishStatus": -1,
-      "entryFee": -1,
-      "viewsCount": 49,
-      "fromDate": "2026-01-10T13:30:00Z",
-      "idPlace": "ChIJcZBVBe7pvzsRny3bx50PnkI",
-      "countFollowers": 60,
-      "docId": "1A8zvZx8Y8atVxQaj6EO",
-      "toDate": "2026-01-10T17:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "100126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FM5yCwMfmuycKrNU4wk04%2Ffull_f31d3720-8864-11ef-bab0-69c6f76672d2?alt=media&token=b5fb18d6-89ef-4eb9-9bd4-fecff5eb89be",
-      "title": "Starry Night Saturday",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FGfFw4SkibActY51qMqww%2Fthumb_fa95a250-dc43-1fbc-8d6b-79f3c35bfa4f?alt=media&token=36c0187d-0712-454b-b900-f7754e16e188",
+      "title": "Don Lyf Tour",
       "listTags": [
         "Nightclub",
-        "DJ"
+        "Weekend",
+        "Hip-Hop/Rap"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FM5yCwMfmuycKrNU4wk04%2Ffull_f31d3720-8864-11ef-bab0-69c6f76672d2?alt=media&token=b5fb18d6-89ef-4eb9-9bd4-fecff5eb89be",
-      "id": "1A8zvZx8Y8atVxQaj6EO"
+      "viewsCount": 7,
+      "fromDate": "2026-01-17T14:30:00Z",
+      "countFollowers": 20,
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJo4dhVF3pvzsREwJJ1FQ-wvg",
+      "docId": "18WkqPgymCRPGxOP99ih",
+      "toDate": "2026-01-17T23:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FGfFw4SkibActY51qMqww%2Ffull_ba4e97e0-dc4f-1fbc-8d6b-79f3c35bfa4f?alt=media&token=00da54b6-b3c5-42b4-bbe0-1a6d769965b3",
+      "description": "DON LYF TOUR  Official dates \n\nGoa Get Ready for a legendary Hiphop event of the season \n\n@raastagoa  11th May \n\nTickets on sale now @skillboxofficial\n#Bombay\n#nagpur\n#Goa\n\n+ very special guest artists TBA \nShaikhspeare is aiming to hit the road, perform in different cities in India starting with some of the west zone cities, meet and greet his fans and give them an immersive experience of the album, authentic bombay hiphop sound and the message his music carries.  \n\nSupporting Acts for each cities to be announced soon! \n\nAbout Artist- \n\n\"Aamir Shaikh\", better known as \"Shaikhspeare\" aka \"Shaikh The Don\" is a rapper/songwriter based out of Mumbai, India and is deemed as one of the OGs who has been representing Bombay rap scene & Indian underground hiphop for more than a decade.",
+      "id": "18WkqPgymCRPGxOP99ih"
     },
     {
-      "description": "CALL ON +919820009167",
-      "publishStatus": 1,
-      "entryFee": 1100,
-      "fromDate": "2026-01-10T15:30:00Z",
-      "idPlace": "ChIJ5YPS8nXpvzsRM4NU5aHv8Po",
-      "countFollowers": 324,
-      "docId": "1BRLn6kulZy98FVGkzWz",
-      "toDate": "2026-01-11T03:30:00Z",
-      "tribe": "goa",
       "eventDates": [
-        "100126"
+        "180126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F682cee02-ab6b-41a4-bdcf-598ff005e06a%2Ffull_682cee02-ab6b-41a4-bdcf-598ff005e06a?alt=media&token=1192c3bd-a362-4951-90d9-c0c2a2127e96",
-      "title": "SOUND OF ESTUARY 60.0",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FUt8W9BfbLu7vb6joAyXZ%2Ffull_fe230f10-9a01-11ef-96a6-3d91cb45d2c1?alt=media&token=5cd62362-096a-467e-8727-e692e9d1c0a4",
+      "title": "Bollywood Night",
       "listTags": [
-        "Rave",
+        "Karaoke"
+      ],
+      "fromDate": "2026-01-18T15:30:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJpfrLjvS1vzsRcbap9iFAsfU",
+      "docId": "1LWw6LjCYcFcaXs3W0oL",
+      "toDate": "2026-01-18T17:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FUt8W9BfbLu7vb6joAyXZ%2Ffull_fe230f10-9a01-11ef-96a6-3d91cb45d2c1?alt=media&token=5cd62362-096a-467e-8727-e692e9d1c0a4",
+      "id": "1LWw6LjCYcFcaXs3W0oL"
+    },
+    {
+      "eventDates": [
+        "140126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fd4bdefbb-d7b9-40bb-ae26-4e7c09a6fbd0%2Fthumb_d4bdefbb-d7b9-40bb-ae26-4e7c09a6fbd0?alt=media&token=2112f304-e4ab-420e-a053-ec429336b23b",
+      "title": "Sushi Day",
+      "listTags": [
         "Techno",
-        "Psytrance"
+        "Deep House"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F682cee02-ab6b-41a4-bdcf-598ff005e06a%2Fthumb_682cee02-ab6b-41a4-bdcf-598ff005e06a?alt=media&token=c351fe4f-540d-4ba0-aed1-5d899a8903be",
-      "id": "1BRLn6kulZy98FVGkzWz"
+      "fromDate": "2026-01-14T07:30:00Z",
+      "countFollowers": 20,
+      "tribe": "goa",
+      "publishStatus": 1,
+      "entryFee": -1,
+      "idPlace": "ChIJRfd6ravpvzsRVRSuHrDniZY",
+      "docId": "1MDW0GUPhlyz8HV4Z6zS",
+      "toDate": "2026-01-14T16:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fd4bdefbb-d7b9-40bb-ae26-4e7c09a6fbd0%2Ffull_d4bdefbb-d7b9-40bb-ae26-4e7c09a6fbd0?alt=media&token=6ec84700-f95d-45b1-981f-5fdc8cd450d6",
+      "description": "🔥 NEW AT MIRACLE ISLAND! 🔥\n\nNow every Wednesday is not just delicious — it’s hot and full of vibes 💃🕺\n\n🎧 DJ | Techno | House | Dance music\n🍣 Chef’s rolls — fresh, flavorful, and perfectly matched with the sea breeze\n\n⏰ Starting from 1:00 PM\n📍 Miracle Island Beach Restaurant & Bar\n\nVegetable rolls — 350\nTuna rolls — 400\nDragon rolls — 490\nSalmon rolls — 590\nChicken rolls — 380\nTeriyaki tuna — 450\nTeriyaki chicken — 400\n\nCome for the atmosphere, music, sunshine, and your favorite rolls 🌴☀️\nWednesday is the best day of the week when you spend it with us 🤍\n\n#goa #goaprawns #goafood #goalunch #goarestaurant #goafoodie #morjim #goasushi #goarolls",
+      "id": "1MDW0GUPhlyz8HV4Z6zS"
     },
     {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-13T15:30:00Z",
-      "idPlace": "ChIJFSHsiR3BvzsR_Q2IX5tPiBs",
-      "countFollowers": 3,
-      "docId": "1Djjqhi7H5cGEuWyY0Up",
-      "toDate": "2026-01-13T17:30:00Z",
-      "tribe": "goa",
       "eventDates": [
-        "130126"
+        "160126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F16fbf4f3-c94b-44b4-aad7-fbdad6cb756c%2Ffull_16fbf4f3-c94b-44b4-aad7-fbdad6cb756c?alt=media&token=eb9756b4-f5cf-4dd1-be8d-eeef7e423cd5",
-      "title": "Live Music",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fa131b4cc-2191-4606-8d2b-768a0df238f3%2Fthumb_cb5467d0-0635-1fea-b6a8-5dde689c79c0?alt=media&token=397e0cc7-99b5-4959-b931-581b1ecf221d",
+      "title": "Cocktail With Sufi",
       "listTags": [
-        "Live Concert"
+        "Live Concert",
+        "Sufi"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F16fbf4f3-c94b-44b4-aad7-fbdad6cb756c%2Fthumb_16fbf4f3-c94b-44b4-aad7-fbdad6cb756c?alt=media&token=6f561e92-0b08-4f63-a1b9-2148e36e1b1e",
-      "id": "1Djjqhi7H5cGEuWyY0Up"
-    },
-    {
+      "fromDate": "2026-01-16T14:00:00Z",
+      "tribe": "goa",
       "publishStatus": -1,
       "entryFee": -1,
-      "fromDate": "2026-01-12T14:00:00Z",
-      "idPlace": "ChIJ7aXWYpfBvzsR9RKH8lS6mMg",
-      "docId": "1Eauk6V1pKrB4pf6kVpB",
-      "toDate": "2026-01-12T16:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "120126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FJIopz3wz6oOOARGDRO2F%2Ffull_4eb1a9f0-8cb9-11f0-847d-5f578ba40f13?alt=media&token=4a8f5091-7697-48a7-91a5-d12437617ba0",
-      "title": "Groove Nights",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FJIopz3wz6oOOARGDRO2F%2Ffull_4eb1a9f0-8cb9-11f0-847d-5f578ba40f13?alt=media&token=4a8f5091-7697-48a7-91a5-d12437617ba0",
-      "id": "1Eauk6V1pKrB4pf6kVpB"
+      "idPlace": "ChIJ2wn2HpfpvzsRww9BG-ydTBk",
+      "docId": "1NhoAJdM30oAjUQ6RpZ6",
+      "toDate": "2026-01-16T17:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fa131b4cc-2191-4606-8d2b-768a0df238f3%2Ffull_d3d9a540-0640-1fea-b6a8-5dde689c79c0?alt=media&token=21860298-f8c6-4831-b69c-e4ccb0b2c8ea",
+      "id": "1NhoAJdM30oAjUQ6RpZ6"
     },
     {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-11T11:00:00Z",
-      "idPlace": "ChIJA_k1LgC1vzsRsQlhEJlb_OY",
-      "countFollowers": 1,
-      "docId": "1HI3lnirwUpvYLtVEjwa",
-      "toDate": "2026-01-11T16:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "110126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FGZ0kwiVQg7aetZDnDFhq%2Ffull_24a24960-1fb9-1f94-a1aa-e9462b9dfc77?alt=media&token=3bb4f36b-8945-425e-b6b4-cb30269aa95d",
-      "title": "Sunset Stories",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FGZ0kwiVQg7aetZDnDFhq%2Fthumb_09e56ed0-1fb0-1f94-a1aa-e9462b9dfc77?alt=media&token=e4442b20-fb4c-49ce-b286-8bd0b3945ca1",
-      "id": "1HI3lnirwUpvYLtVEjwa"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-13T13:30:00Z",
-      "idPlace": "ChIJkT4egZbBvzsR_fhUK996U0U",
-      "docId": "1HrBlkjMfsZkLPIl5xpi",
-      "toDate": "2026-01-13T17:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "130126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FMz7x4JPAhOUi1e4R7w1k%2Ffull_Mz7x4JPAhOUi1e4R7w1k?alt=media&token=10bcc9dd-f123-4724-81a1-2f2a720499de",
-      "title": "Live Music",
-      "listTags": [
-        "Live Concert"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FMz7x4JPAhOUi1e4R7w1k%2Fthumb_Mz7x4JPAhOUi1e4R7w1k?alt=media&token=ad323ff8-3bd1-4cb3-b13f-82ab07006251",
-      "id": "1HrBlkjMfsZkLPIl5xpi"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-10T14:30:00Z",
-      "idPlace": "ChIJjblMjNnpvzsRtasdVtJDbik",
-      "docId": "1JeBn0UXzY3pAaDVHgy9",
-      "toDate": "2026-01-10T20:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "100126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F98037115-7cb6-4985-a20b-378e48bd3df8%2Ffull_98037115-7cb6-4985-a20b-378e48bd3df8?alt=media&token=a4d8259e-7d95-4ef4-b93a-7bee34edc68c",
-      "title": "Freefolk",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F98037115-7cb6-4985-a20b-378e48bd3df8%2Fthumb_98037115-7cb6-4985-a20b-378e48bd3df8?alt=media&token=7afbc935-4099-4135-a479-973841ca0c00",
-      "id": "1JeBn0UXzY3pAaDVHgy9"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-10T13:30:00Z",
-      "idPlace": "ChIJNy29lE3uvzsRQJHVfmp4to8",
-      "docId": "1Kclns5aZDVpKStmvOPk",
-      "toDate": "2026-01-10T16:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "100126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fds9dXfIOFRKjyCU0HHfd%2Ffull_5b94cf00-bfcb-11ef-bd69-e12ac260da29?alt=media&token=4855fa20-3019-4413-be6c-16fe3cf66461",
-      "title": "Live",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fds9dXfIOFRKjyCU0HHfd%2Ffull_5b94cf00-bfcb-11ef-bd69-e12ac260da29?alt=media&token=4855fa20-3019-4413-be6c-16fe3cf66461",
-      "id": "1Kclns5aZDVpKStmvOPk"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-10T16:00:00Z",
-      "idPlace": "ChIJ9RrhaV7rvzsR5q79B1LGP-U",
-      "countFollowers": 6,
-      "docId": "1McBarhOUfUkVKpKzXPs",
-      "toDate": "2026-01-10T19:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "100126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F37381fe8-2b3c-4504-9f92-b5d612eeb645%2Ffull_e6ebef20-d023-11f0-af15-efb0e2e4cd14?alt=media&token=3c7ee12a-cfb0-4c5f-808d-faa44cb72ff8",
-      "title": "Glitter And Groove",
-      "listTags": [
-        "DJ",
-        "Nightclub",
-        "Weekend"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F37381fe8-2b3c-4504-9f92-b5d612eeb645%2Fthumb_e6f11f40-d023-11f0-af15-efb0e2e4cd14?alt=media&token=bdb1a0b6-ec9e-4e6d-aaa1-2cfaf7e365a9",
-      "id": "1McBarhOUfUkVKpKzXPs"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-12T12:00:00Z",
-      "idPlace": "ChIJOQejFlbBvzsR3EZOTaSKqDk",
-      "docId": "1NE0hMVqCZNpT6JyGnPo",
-      "toDate": "2026-01-12T16:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "120126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FGgJtu9MebLHdqgsxRuzn%2Ffull_a2a8a380-559e-11f0-b0e1-47239e1bb3e1?alt=media&token=2d9bd4ed-e2fe-460e-b9f1-f565c97c0a79",
-      "title": "Viva Sao Joao",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FGgJtu9MebLHdqgsxRuzn%2Ffull_a2a8a380-559e-11f0-b0e1-47239e1bb3e1?alt=media&token=2d9bd4ed-e2fe-460e-b9f1-f565c97c0a79",
-      "id": "1NE0hMVqCZNpT6JyGnPo"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-13T16:30:00Z",
-      "idPlace": "ChIJxegZXwDrvzsREpfneoo0ebU",
-      "countFollowers": 3,
-      "docId": "1O6XJiobtdJIlXmAft8h",
-      "toDate": "2026-01-13T19:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "130126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F3a6cb69d-277a-4ea4-a73d-bf81716565be%2Ffull_3a6cb69d-277a-4ea4-a73d-bf81716565be?alt=media&token=3815d0c9-b5ea-4dbc-bfd2-5984be593191",
-      "title": "Soho Takeover",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F3a6cb69d-277a-4ea4-a73d-bf81716565be%2Fthumb_3a6cb69d-277a-4ea4-a73d-bf81716565be?alt=media&token=9942c30d-78f5-4fcd-8daf-33e552343349",
-      "id": "1O6XJiobtdJIlXmAft8h"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "viewsCount": 1,
-      "fromDate": "2026-01-15T13:30:00Z",
-      "idPlace": "ChIJE01mXa3rvzsR6IAh9LmX9rI",
-      "countFollowers": 7,
-      "docId": "1OJq5ifLrm4BhZWuZDEc",
-      "toDate": "2026-01-15T20:30:00Z",
-      "tribe": "goa",
       "eventDates": [
         "150126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F4AEBCR872GZgfz8WX638%2Ffull_4AEBCR872GZgfz8WX638?alt=media&token=91d1daef-ebf6-41ae-86e1-3f55630e296e",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F4AEBCR872GZgfz8WX638%2Fthumb_4AEBCR872GZgfz8WX638?alt=media&token=2b858204-be7e-4e18-82f2-e8ea5efbfddb",
       "title": "Merriest Christmas",
       "listTags": [
         "Live Concert"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F4AEBCR872GZgfz8WX638%2Fthumb_4AEBCR872GZgfz8WX638?alt=media&token=2b858204-be7e-4e18-82f2-e8ea5efbfddb",
+      "viewsCount": 1,
+      "fromDate": "2026-01-15T13:30:00Z",
+      "countFollowers": 7,
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJE01mXa3rvzsR6IAh9LmX9rI",
+      "docId": "1OJq5ifLrm4BhZWuZDEc",
+      "toDate": "2026-01-15T20:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F4AEBCR872GZgfz8WX638%2Ffull_4AEBCR872GZgfz8WX638?alt=media&token=91d1daef-ebf6-41ae-86e1-3f55630e296e",
       "id": "1OJq5ifLrm4BhZWuZDEc"
     },
     {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-11T07:00:00Z",
-      "idPlace": "ChIJiRnMkvzHvzsRPz2JOH574kU",
-      "docId": "1QF89fWHDJnU9xXAhdcH",
-      "toDate": "2026-01-11T17:30:00Z",
-      "tribe": "goa",
       "eventDates": [
-        "110126"
+        "190126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F449f0421-5863-4069-a1a8-8dccb5ff02c9%2Ffull_449f0421-5863-4069-a1a8-8dccb5ff02c9?alt=media&token=ba9fbaba-3ca8-4795-b2ef-09f4815096d4",
-      "title": "Sunday Brunch",
-      "listTags": [
-        "Live Concert"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F449f0421-5863-4069-a1a8-8dccb5ff02c9%2Fthumb_449f0421-5863-4069-a1a8-8dccb5ff02c9?alt=media&token=436fb8f0-de5d-4b40-ad77-000f76d7bd2b",
-      "id": "1QF89fWHDJnU9xXAhdcH"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-15T14:00:00Z",
-      "idPlace": "ChIJI1MglIC1vzsRXJHyQcDncvg",
-      "docId": "1RXrRu6jGVERkC7gIcXP",
-      "toDate": "2026-01-15T16:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "150126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F5230ae6c-2d7c-4a05-b73d-c49824f21210%2Ffull_e801c4b0-19f4-11f0-ba9c-af7e986c2a04?alt=media&token=6b4c00de-b42a-41c5-a9b4-51e1b807cf7e",
-      "title": "Live Screening",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F5230ae6c-2d7c-4a05-b73d-c49824f21210%2Ffull_e801c4b0-19f4-11f0-ba9c-af7e986c2a04?alt=media&token=6b4c00de-b42a-41c5-a9b4-51e1b807cf7e",
-      "id": "1RXrRu6jGVERkC7gIcXP"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-12T14:30:00Z",
-      "idPlace": "ChIJNWLzg8e1vzsRAd9SfJ9-ZWo",
-      "docId": "1TSaxVUCzvZWpwbfUhPq",
-      "toDate": "2026-01-12T17:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "120126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fa2c468be-e6cf-463e-8e79-572c1a7a150a%2Ffull_ff76a460-cea0-11f0-924e-7bf340e09a2f?alt=media&token=0390fb14-bd4f-4008-a33d-05eb1ffb994b",
-      "title": "Tiki Mondays",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fa2c468be-e6cf-463e-8e79-572c1a7a150a%2Fthumb_ff79b1a0-cea0-11f0-924e-7bf340e09a2f?alt=media&token=c04ff8b9-e2b7-47d2-9789-5e2afc588ab2",
-      "id": "1TSaxVUCzvZWpwbfUhPq"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "viewsCount": 67,
-      "fromDate": "2026-01-12T08:30:00Z",
-      "idPlace": "ChIJfXdOOLXBvzsR06WADKBFOB8",
-      "countFollowers": 36,
-      "docId": "1YdREzusQc2Xw0bQXcvL",
-      "toDate": "2026-01-12T11:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "120126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F2VECyBpag6GGDy9p6Ldt%2Ffull_2VECyBpag6GGDy9p6Ldt?alt=media&token=5b2fb2dd-2f1d-414e-b06b-3a6c3c6edea0",
-      "title": "Live Band",
-      "listTags": [
-        "Live Concert"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F2VECyBpag6GGDy9p6Ldt%2Fthumb_2VECyBpag6GGDy9p6Ldt?alt=media&token=b480e0b8-5f13-47f5-8688-07d742726688",
-      "id": "1YdREzusQc2Xw0bQXcvL"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "viewsCount": 79,
-      "fromDate": "2026-01-13T15:30:00Z",
-      "idPlace": "ChIJWUM-d5rrvzsRpCPgq2akWDE",
-      "countFollowers": 60,
-      "docId": "1ZY4fOItY4b34S1TJ0xu",
-      "toDate": "2026-01-13T17:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "130126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F2c598e57-c685-44f8-b70e-b8482ee5f1e9%2Ffull_2c598e57-c685-44f8-b70e-b8482ee5f1e9?alt=media&token=27558c1a-dc52-4a50-b73e-36b1336c78b4",
-      "title": "Turn Up Tuesday",
-      "listTags": [
-        "Clubbing"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F2c598e57-c685-44f8-b70e-b8482ee5f1e9%2Fthumb_2c598e57-c685-44f8-b70e-b8482ee5f1e9?alt=media&token=82a93bb7-0ace-4447-bee9-08ef1d346403",
-      "id": "1ZY4fOItY4b34S1TJ0xu"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "viewsCount": 49,
-      "fromDate": "2026-01-10T07:30:00Z",
-      "idPlace": "ChIJVVVVVYbpvzsR4jXMTlDlgpA",
-      "countFollowers": 21,
-      "docId": "1cz3DdtQsJLldboflQ0f",
-      "toDate": "2026-01-10T11:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "100126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F85802532-6a20-4de1-89e3-142d1365257c%2Ffull_85802532-6a20-4de1-89e3-142d1365257c?alt=media&token=d8f72251-1c9c-4297-8b2f-44c8c46a43e6",
-      "title": "Saturday Flow",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Faaa411b4-381e-4389-a2fa-0d4f94949788%2Ffull_5e96dfe0-7426-11ef-8d0d-71309e24aab8?alt=media&token=fe582464-8e8e-4182-9021-148d346cf346",
+      "title": "Synthwave 2.0",
       "listTags": [
         "DJ"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F85802532-6a20-4de1-89e3-142d1365257c%2Fthumb_85802532-6a20-4de1-89e3-142d1365257c?alt=media&token=21afd25c-d62b-4fa7-ac61-352a64e78c22",
-      "id": "1cz3DdtQsJLldboflQ0f"
-    },
-    {
+      "fromDate": "2026-01-19T14:30:00Z",
+      "tribe": "goa",
       "publishStatus": -1,
       "entryFee": -1,
-      "viewsCount": 1,
-      "fromDate": "2026-01-11T07:00:00Z",
-      "idPlace": "ChIJ59_LHv7rvzsRkAKJZp7njVI",
-      "countFollowers": 1,
-      "docId": "1dYaW9PpsEc8tk8BRzja",
-      "toDate": "2026-01-11T10:00:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "110126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fbd1f7e49-34f8-472c-8a72-7298f70f0f86%2Ffull_b1d27890-acc9-11f0-8760-b7153b087d8f?alt=media&token=89d063c5-11f2-449c-89e9-dead1edb021d",
-      "title": "Washoku Sunday",
-      "listTags": [
-        "Brunch",
-        "Jazz"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fbd1f7e49-34f8-472c-8a72-7298f70f0f86%2Fthumb_b1d5ace0-acc9-11f0-8760-b7153b087d8f?alt=media&token=947bcdcb-115b-46f4-801c-d6ef3cb8af02",
-      "id": "1dYaW9PpsEc8tk8BRzja"
+      "idPlace": "ChIJa3VJEgBJvjsRcsNGhn_INhQ",
+      "docId": "1OYiQJhdwxoUUBgfRCvQ",
+      "toDate": "2026-01-19T17:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Faaa411b4-381e-4389-a2fa-0d4f94949788%2Ffull_5e96dfe0-7426-11ef-8d0d-71309e24aab8?alt=media&token=fe582464-8e8e-4182-9021-148d346cf346",
+      "id": "1OYiQJhdwxoUUBgfRCvQ"
     },
     {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-14T14:30:00Z",
-      "idPlace": "ChIJb21vuhy_vzsR3gvQFK8FbRI",
-      "docId": "1dePwrMzNd20CBSj4klG",
-      "toDate": "2026-01-14T20:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "140126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F33e44623-1501-471a-bdfe-2abc70219b15%2Ffull_33e44623-1501-471a-bdfe-2abc70219b15?alt=media&token=49c39285-63ca-4644-a9cd-229cfbc0c9db",
-      "title": "New Years Eve",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F33e44623-1501-471a-bdfe-2abc70219b15%2Fthumb_33e44623-1501-471a-bdfe-2abc70219b15?alt=media&token=76f26513-1f31-42ff-8f32-1b4db04ef4ce",
-      "id": "1dePwrMzNd20CBSj4klG"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": 300,
-      "fromDate": "2026-01-11T04:30:00Z",
-      "isFeatured": true,
-      "idPlace": "ChIJJdv1eRXvvzsRD3ocRbGmM-g",
-      "countFollowers": 60,
-      "docId": "1en8Js3w46L8y58enS8D",
-      "toDate": "2026-01-12T16:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "110126",
-        "120126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FryV1b3IYLtj9AfKPWG5K%2Ffull_91d69a50-11c7-11f0-83f7-e3880e2b3505?alt=media&token=96520a3d-0b92-445d-a419-647b70f7e5c7",
-      "title": "Mud Relax Rejuvenate",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FryV1b3IYLtj9AfKPWG5K%2Ffull_91d69a50-11c7-11f0-83f7-e3880e2b3505?alt=media&token=96520a3d-0b92-445d-a419-647b70f7e5c7",
-      "id": "1en8Js3w46L8y58enS8D"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "viewsCount": 1,
-      "fromDate": "2026-01-15T15:00:00Z",
-      "idPlace": "ChIJiYP6ImDrvzsRaHurCf96eGg",
-      "docId": "1evqabL1bA3xexkrD45R",
-      "toDate": "2026-01-15T17:30:00Z",
-      "tribe": "goa",
       "eventDates": [
         "150126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FEQzl5ejnF4MbeBDsUPit%2Ffull_272135a0-7c15-11ef-baa4-f59175202ceb?alt=media&token=f7454e7c-df1f-4f0d-b993-747eb96431cb",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F5230ae6c-2d7c-4a05-b73d-c49824f21210%2Ffull_e801c4b0-19f4-11f0-ba9c-af7e986c2a04?alt=media&token=6b4c00de-b42a-41c5-a9b4-51e1b807cf7e",
+      "title": "Live Screening",
+      "fromDate": "2026-01-15T14:00:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJI1MglIC1vzsRXJHyQcDncvg",
+      "docId": "1RXrRu6jGVERkC7gIcXP",
+      "toDate": "2026-01-15T16:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F5230ae6c-2d7c-4a05-b73d-c49824f21210%2Ffull_e801c4b0-19f4-11f0-ba9c-af7e986c2a04?alt=media&token=6b4c00de-b42a-41c5-a9b4-51e1b807cf7e",
+      "id": "1RXrRu6jGVERkC7gIcXP"
+    },
+    {
+      "eventDates": [
+        "030226",
+        "040226"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F73ec3024-f43c-4777-865b-089517eefafc%2Fthumb_73ec3024-f43c-4777-865b-089517eefafc?alt=media&token=3fa403eb-0d31-4278-a369-0175f2833478",
+      "title": "Zoo Gathering",
+      "listTags": [
+        "DJ",
+        "Psytrance"
+      ],
+      "fromDate": "2026-02-03T12:30:00Z",
+      "tribe": "goa",
+      "publishStatus": 1,
+      "entryFee": 2500,
+      "idPlace": "ChIJRzubvxPtvzsRhyyxt8hNU0o",
+      "docId": "1ULgpgiKURXB8dw15wOa",
+      "toDate": "2026-02-04T12:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F73ec3024-f43c-4777-865b-089517eefafc%2Ffull_73ec3024-f43c-4777-865b-089517eefafc?alt=media&token=d32796df-8b5f-4812-84de-71197e6c5986",
+      "description": "Digital Dialogue Presents - 🦁ZOO DEEP TRIP GATHERING!\n\n💥After the unforgettable roar of last year’s Zoo Festival a gathering that brought the tribe together & left the dancefloor buzzing long after the music🎵 faded we return with the next chapter of the journey.🦄\n\nDeep Trip ZOO Gathering is not just an event, it’s a celebration of the roots a true 📀Old Goa Trance experience where psychedelic storytelling, timeless grooves & raw energy meet under the open sky.🔥 Last year proved what happens when the right people, the right sound, & the right intention come together pure magic, unity, & memories etched into the night.👁️\n\n🧚🏻‍♀️This February, we dive deeper.\nExpect retro Goa frequencies, long hypnotic journeys, & a dancefloor that moves as one surrounded by wild visuals👁️ tribal energy, & that unmistakable old-school vibe that started it all. This is for the heads who remember, the souls who feel, & the new generation ready to experience 🌴Goa trance in its truest form.\nThe ZOO opens its gates once again.💥\n\n🐾The tribe gathers.\nThe journey continues.🐾\n\n🌀 Deep Trip ZOO Gathering – Retro Goa Journey\n📍 D’Pedro, Mandrem\n📅 03rd–04th February 2026\n⏰ 06 Pm - 06 Pm\n\n🔸Stay Tuned For Zoo Gathering Line Up.🔸",
+      "id": "1ULgpgiKURXB8dw15wOa"
+    },
+    {
+      "eventDates": [
+        "150126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F9c6e2401-8ceb-4d1a-9c73-729ae4366a27%2Fthumb_9c6e2401-8ceb-4d1a-9c73-729ae4366a27?alt=media&token=6488039d-0b13-4707-9f1a-1a21ceb623a7",
+      "title": "Davai: Island Cruise",
+      "listTags": [
+        "DJ",
+        "Boat Cruise"
+      ],
+      "fromDate": "2026-01-14T20:30:00Z",
+      "countFollowers": 18,
+      "isFeatured": true,
+      "tribe": "goa",
+      "publishStatus": 1,
+      "entryFee": 2000,
+      "idPlace": "ChIJEbJ4bVHpvzsRVnhJFvkGCuY",
+      "docId": "1Y6bq0EdkUu3kWx4o68L",
+      "toDate": "2026-01-15T02:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F9c6e2401-8ceb-4d1a-9c73-729ae4366a27%2Ffull_9c6e2401-8ceb-4d1a-9c73-729ae4366a27?alt=media&token=9c20b6ef-6622-424b-b6b2-bc51009e3aff",
+      "description": "DAVAI : Island Cruise Sunrise Party\n\nNew Year Special\n\nRed Sun | Open Sea | Underground Sounds & Air of Freedom\n\n📆 Thu Night – Fri Morning | 14th–15th Jan\n⏰ 02:00 AM – 08:00 AM (IST)\n📍 Morjim Jetty, Goa\n\n⸻\n\nWHY YOU SHOULD BE THERE\n\n🚤 DAVAI Island Cruise – A fresh & unique sunrise experience\n💸 Early Bird: ₹1999/- includes\n• Entry\n• BYOB (Bring Your Own Alcohol)\n• Steamer boat pick-up & drop\n• Lifeguard + 2 safety steamer boats\n\n🍽️ Food available onboard\n🥭 Outside fruits allowed\n🎟️ Limited to 50 Pax only – well-curated dance floor\n🌤️ Sunrise view from a remote island\n🎶 Music that truly changes the game\n\n⸻\n\nMUSIC & VIBES\n\n🎧 Underground | Carefully Curated DJs\n\n• Slava Finist\nFounder of the 1988 Russian underground scene\n\n• Shekurov\nEmerging Russian talent across multiple underground brands\n\n🔊 Sound System: DAVAI Original\n🩸 Decor: DAVAI Style – Red Theme\n\n⸻\n\nIMPORTANT INFO\n\n🚤 Boat Boarding: 1:00 AM – 2:00 AM\n📍 Location Map:\nhttps://maps.app.goo.gl/gTvtNECkTo4ExAyy8?g_st=iwb\n\n🎟️ Tickets & Info:\n📞 +91 93207 31528\n🎫 Also available: 10 tickets via Party Hunt\n\n⸻\n\n💌 Love & Power\nTeam DAVAI\nDAVAI : Medicine of Music",
+      "id": "1Y6bq0EdkUu3kWx4o68L"
+    },
+    {
+      "eventDates": [
+        "140126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F33e44623-1501-471a-bdfe-2abc70219b15%2Fthumb_33e44623-1501-471a-bdfe-2abc70219b15?alt=media&token=76f26513-1f31-42ff-8f32-1b4db04ef4ce",
+      "title": "New Years Eve",
+      "fromDate": "2026-01-14T14:30:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJb21vuhy_vzsR3gvQFK8FbRI",
+      "docId": "1dePwrMzNd20CBSj4klG",
+      "toDate": "2026-01-14T20:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F33e44623-1501-471a-bdfe-2abc70219b15%2Ffull_33e44623-1501-471a-bdfe-2abc70219b15?alt=media&token=49c39285-63ca-4644-a9cd-229cfbc0c9db",
+      "id": "1dePwrMzNd20CBSj4klG"
+    },
+    {
+      "eventDates": [
+        "150126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FEQzl5ejnF4MbeBDsUPit%2Ffull_272135a0-7c15-11ef-baa4-f59175202ceb?alt=media&token=f7454e7c-df1f-4f0d-b993-747eb96431cb",
       "title": "Live Music",
       "listTags": [
         "Live Concert"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FEQzl5ejnF4MbeBDsUPit%2Ffull_272135a0-7c15-11ef-baa4-f59175202ceb?alt=media&token=f7454e7c-df1f-4f0d-b993-747eb96431cb",
+      "viewsCount": 1,
+      "fromDate": "2026-01-15T15:00:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJiYP6ImDrvzsRaHurCf96eGg",
+      "docId": "1evqabL1bA3xexkrD45R",
+      "toDate": "2026-01-15T17:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FEQzl5ejnF4MbeBDsUPit%2Ffull_272135a0-7c15-11ef-baa4-f59175202ceb?alt=media&token=f7454e7c-df1f-4f0d-b993-747eb96431cb",
       "id": "1evqabL1bA3xexkrD45R"
     },
     {
-      "publishStatus": 1,
-      "entryFee": 1000,
-      "fromDate": "2026-01-21T12:30:00Z",
-      "idPlace": "ChIJV8fxZUzuvzsR-Q_s5JxWxo4",
-      "countFollowers": 1,
-      "docId": "1hrvIDM70RmRIvEl8NgO",
-      "toDate": "2026-01-21T19:30:00Z",
+      "eventDates": [
+        "170126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fb3092624-1725-45de-9104-6475f15d1582%2Fthumb_c255be80-b173-11f0-96a4-6bcf4e526aca?alt=media&token=0bafb6dc-1296-40a3-a14f-aa8d0f99f742",
+      "title": "Elrow Sunsets",
+      "listTags": [
+        "DJ",
+        "Nightclub",
+        "Sundowner",
+        "Cocktails"
+      ],
+      "viewsCount": 86,
+      "fromDate": "2026-01-17T11:30:00Z",
+      "countFollowers": 60,
       "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJZb0AEC_BvzsRA7pLMOkl6-c",
+      "docId": "1fP9IookCzTInkyZzUkF",
+      "toDate": "2026-01-17T19:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fb3092624-1725-45de-9104-6475f15d1582%2Ffull_c252ff60-b173-11f0-96a4-6bcf4e526aca?alt=media&token=9431244c-e9c5-4821-9ed4-8a428e843993",
+      "id": "1fP9IookCzTInkyZzUkF"
+    },
+    {
+      "eventDates": [
+        "170126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FAkvod0ox7eio8FqosHR8%2Fthumb_Akvod0ox7eio8FqosHR8?alt=media&token=04a90a14-b2c6-4081-bc05-a422a17a7e7e",
+      "title": "Live Music",
+      "listTags": [
+        "Live Concert"
+      ],
+      "fromDate": "2026-01-17T14:00:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJkT4egZbBvzsR_fhUK996U0U",
+      "docId": "1g5mc6NaeVBmmMmXw1cM",
+      "toDate": "2026-01-17T17:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FAkvod0ox7eio8FqosHR8%2Ffull_Akvod0ox7eio8FqosHR8?alt=media&token=7b3ae9c5-362c-4b90-8261-ee3f310fe939",
+      "id": "1g5mc6NaeVBmmMmXw1cM"
+    },
+    {
       "eventDates": [
         "210126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fe3c145e8-f63b-4f08-bbfc-a373b760b9c6%2Ffull_e3c145e8-f63b-4f08-bbfc-a373b760b9c6?alt=media&token=eb860a38-cdf5-4886-88fc-5983ca39c660",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fe3c145e8-f63b-4f08-bbfc-a373b760b9c6%2Fthumb_e3c145e8-f63b-4f08-bbfc-a373b760b9c6?alt=media&token=6de0adf2-fb77-426c-82b8-b67b4305861c",
       "title": "Skank It",
       "listTags": [
         "Reggae",
         "Drum & Bass"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fe3c145e8-f63b-4f08-bbfc-a373b760b9c6%2Fthumb_e3c145e8-f63b-4f08-bbfc-a373b760b9c6?alt=media&token=6de0adf2-fb77-426c-82b8-b67b4305861c",
+      "fromDate": "2026-01-21T12:30:00Z",
+      "countFollowers": 1,
+      "tribe": "goa",
+      "publishStatus": 1,
+      "entryFee": 1000,
+      "idPlace": "ChIJV8fxZUzuvzsR-Q_s5JxWxo4",
+      "docId": "1hrvIDM70RmRIvEl8NgO",
+      "toDate": "2026-01-21T19:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fe3c145e8-f63b-4f08-bbfc-a373b760b9c6%2Ffull_e3c145e8-f63b-4f08-bbfc-a373b760b9c6?alt=media&token=eb860a38-cdf5-4886-88fc-5983ca39c660",
       "id": "1hrvIDM70RmRIvEl8NgO"
     },
     {
+      "eventDates": [
+        "170126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F72f4865f-54b8-459d-a943-240fe08204bc%2Fthumb_72f4865f-54b8-459d-a943-240fe08204bc?alt=media&token=085d7a1b-5171-4035-8d6d-aff0bc7988ce",
+      "title": "Saturday Live",
+      "listTags": [
+        "Live Concert"
+      ],
+      "viewsCount": 43,
+      "fromDate": "2026-01-17T14:30:00Z",
+      "countFollowers": 5,
+      "tribe": "goa",
       "publishStatus": -1,
       "entryFee": -1,
-      "fromDate": "2026-01-12T12:30:00Z",
-      "idPlace": "ChIJI-mYYTfrvzsRAulde5mCU3Q",
-      "countFollowers": 1,
-      "docId": "1iIIt7NUTB5SROE97Slq",
-      "toDate": "2026-01-12T17:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "120126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fae80aadd-4196-44a6-bca8-f92bf7847141%2Ffull_49153080-eb48-1085-9c66-d73fb67ba5a6?alt=media&token=55682d6d-9cef-42d9-9978-f349ff9b7403",
-      "title": "Open Mic",
-      "listTags": [
-        "Open Mic"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fae80aadd-4196-44a6-bca8-f92bf7847141%2Ffull_49153080-eb48-1085-9c66-d73fb67ba5a6?alt=media&token=55682d6d-9cef-42d9-9978-f349ff9b7403",
-      "id": "1iIIt7NUTB5SROE97Slq"
+      "idPlace": "ChIJETiyLjzqvzsRKUWNKWCGo0k",
+      "docId": "1ifbvJVgcz6VA4UXJOAT",
+      "toDate": "2026-01-17T17:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F72f4865f-54b8-459d-a943-240fe08204bc%2Ffull_72f4865f-54b8-459d-a943-240fe08204bc?alt=media&token=85dff07d-242e-47ac-9ada-2f3e1bfa1628",
+      "id": "1ifbvJVgcz6VA4UXJOAT"
     },
     {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-14T13:30:00Z",
-      "idPlace": "ChIJuX0Bj_3BvzsRYp6UkoCqCM0",
-      "countFollowers": 1,
-      "docId": "1oEZ3TTXDWCoZlmglOUd",
-      "toDate": "2026-01-14T20:30:00Z",
-      "tribe": "goa",
       "eventDates": [
         "140126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F2pFERZvCzVZJwjpcWLMg%2Ffull_2pFERZvCzVZJwjpcWLMg?alt=media&token=31997733-d65b-4773-96d2-c6babbab4e24",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F2pFERZvCzVZJwjpcWLMg%2Fthumb_2pFERZvCzVZJwjpcWLMg?alt=media&token=bc07d6d0-2d3e-43c7-a318-426a2c6ddc87",
       "title": "New Years Eve",
       "listTags": [
         "Live Concert",
         "Carnival"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F2pFERZvCzVZJwjpcWLMg%2Fthumb_2pFERZvCzVZJwjpcWLMg?alt=media&token=bc07d6d0-2d3e-43c7-a318-426a2c6ddc87",
+      "fromDate": "2026-01-14T13:30:00Z",
+      "countFollowers": 1,
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": -1,
+      "idPlace": "ChIJuX0Bj_3BvzsRYp6UkoCqCM0",
+      "docId": "1oEZ3TTXDWCoZlmglOUd",
+      "toDate": "2026-01-14T20:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F2pFERZvCzVZJwjpcWLMg%2Ffull_2pFERZvCzVZJwjpcWLMg?alt=media&token=31997733-d65b-4773-96d2-c6babbab4e24",
       "id": "1oEZ3TTXDWCoZlmglOUd"
     },
     {
+      "eventDates": [
+        "170126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Ffa685b8a-e69f-4cda-85a8-961bf9cfe586%2Fthumb_fa685b8a-e69f-4cda-85a8-961bf9cfe586?alt=media&token=02036542-bd5d-4d65-9415-c693c40d6cf6",
+      "title": "Sunny Side Up",
+      "fromDate": "2026-01-17T16:30:00Z",
+      "countFollowers": 1,
+      "tribe": "goa",
       "publishStatus": -1,
       "entryFee": -1,
-      "viewsCount": 20,
-      "fromDate": "2026-01-11T07:30:00Z",
-      "idPlace": "ChIJGYqnFGy0vzsRdQ9Xi5q2U5k",
-      "countFollowers": 2,
-      "docId": "1vPR20i6tHBtsXGuE4zv",
-      "toDate": "2026-01-11T17:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "110126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fe3359b4d-6f94-48d3-81ca-a792ff857676%2Ffull_e3359b4d-6f94-48d3-81ca-a792ff857676?alt=media&token=324f6434-33bf-436e-9bcd-936e63935a10",
-      "title": "Sunday Funday",
-      "listTags": [
-        "Karaoke",
-        "Live Concert"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fe3359b4d-6f94-48d3-81ca-a792ff857676%2Fthumb_e3359b4d-6f94-48d3-81ca-a792ff857676?alt=media&token=bfb18b26-c5b6-4130-8026-a3ea7f527b97",
-      "id": "1vPR20i6tHBtsXGuE4zv"
+      "idPlace": "ChIJM6VDDQDpvzsRoI8ZVYgGsV4",
+      "docId": "1pUMRiYFiXUUTO0icdhk",
+      "toDate": "2026-01-17T22:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Ffa685b8a-e69f-4cda-85a8-961bf9cfe586%2Ffull_fa685b8a-e69f-4cda-85a8-961bf9cfe586?alt=media&token=029b2857-f16e-499f-a613-bfa7f2b5e6bb",
+      "id": "1pUMRiYFiXUUTO0icdhk"
     },
     {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-10T13:30:00Z",
-      "idPlace": "ChIJc6boNuBbvjsRDamfmiN4XA8",
-      "docId": "1xw5ysHJB9Umv9JfTqmL",
-      "toDate": "2026-01-10T17:30:00Z",
-      "tribe": "goa",
       "eventDates": [
-        "100126"
+        "170126",
+        "180126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F11d4e3b6-6368-4b21-b494-4761a703a85d%2Ffull_9ecd5460-dc33-1083-83a5-c32132fea69a?alt=media&token=d942add1-7119-4995-a9ca-3b29e004d977",
-      "title": "Saturday Live Music",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F9d25fb1c-4399-42ad-8045-c0973cb44a52%2Fthumb_023706c0-840c-11f0-a3a6-cbf3abab249f?alt=media&token=3c6f36fd-e11f-4e9d-9f62-929ea6e4d805",
+      "title": "The Mount Sessions",
       "listTags": [
-        "Live Concert"
-      ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F11d4e3b6-6368-4b21-b494-4761a703a85d%2Ffull_9ecd5460-dc33-1083-83a5-c32132fea69a?alt=media&token=d942add1-7119-4995-a9ca-3b29e004d977",
-      "id": "1xw5ysHJB9Umv9JfTqmL"
-    },
-    {
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-10T13:30:00Z",
-      "idPlace": "ChIJ0ZNRwyzrvzsRBMsanwz5SWw",
-      "docId": "1zYDI2p4tRP7dw8IJlnf",
-      "toDate": "2026-01-10T16:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "100126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F416ed0cc-e106-4a0e-b884-c7c83d9fd6f9%2Ffull_78e93b80-d290-11f0-a55f-efa8e2fb5787?alt=media&token=f001de51-5010-4458-8d0b-62333550a854",
-      "title": "Line Dancing",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F416ed0cc-e106-4a0e-b884-c7c83d9fd6f9%2Fthumb_78ed8140-d290-11f0-a55f-efa8e2fb5787?alt=media&token=49a03707-ca5c-4d8d-8dc4-de3d8551bc69",
-      "id": "1zYDI2p4tRP7dw8IJlnf"
-    },
-    {
-      "description": "Let's  celebrate  the victory of goodness in humans on Oct 12th with a special line up at Goafornia Morjim beach party and ocean view  .\n8 pm onwards \n\nAir Snare \nPresents\n\nTechtonic Shift \nOct  Edition  Dusshera Special\n\nSkywalkerz (ind)\nSpiritual Gangsta  (Radio Bugz,ind)\nLucy (Air Snare ,india)\nHan$ini (ind)\nRegi Owl (Aus)\n\nTickets are selling fast, so don’t miss out!  \n\n📞 For more info, call:  \n85916 99813 \n\n🕗 8 PM onwards  \n📍 Location: Goafornia Beach Club , Vithaldas Vado,Morjim \n\nGet ready for an unforgettable night\nTickets at \nhttps://idamoss.com/listing/techtonic-shift-dussehra-edition-oct-12th-goa/\n\n\nhttps://insider.in/techtonic-shift-ft-skywalkerz-spiritual-gangsta-oct12-2024/event\n\nhttps://sortmyscene.com/event/tectonic-shift-oct-edition-with-slywalkerz-spiritual-gangsta-oct-12-2024\n\nhttps://idamoss.com/listing/techtonic-shift-dussehra-edition-oct-12th-goa/\n\n#airsnarerecs#goanightlife #techtonicshift #goapartylovers#goaunderground  #instatechno#technodance#technoconnectingp",
-      "publishStatus": -1,
-      "entryFee": -1,
-      "fromDate": "2026-01-10T14:30:00Z",
-      "isFeatured": true,
-      "idPlace": "ChIJrwoQdRHpvzsRYgHPoNK7vwI",
-      "countFollowers": 33,
-      "docId": "1zv157clkjHcZOCFWtLs",
-      "toDate": "2026-01-10T22:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "100126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FSNicKMbpZjm6cuKDWYLW%2Ffull_d5398870-859a-11ef-b10b-73a17daf5605?alt=media&token=91c1841c-5f17-48c3-b795-c92bb98a98d0",
-      "title": "Techtonic Shift",
-      "listTags": [
+        "House",
+        "Electro House",
         "Techno",
-        "DJ"
+        "Disco",
+        "Progressive"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2FSNicKMbpZjm6cuKDWYLW%2Ffull_d5398870-859a-11ef-b10b-73a17daf5605?alt=media&token=91c1841c-5f17-48c3-b795-c92bb98a98d0",
-      "id": "1zv157clkjHcZOCFWtLs"
+      "fromDate": "2026-01-17T14:30:00Z",
+      "tribe": "goa",
+      "publishStatus": -1,
+      "entryFee": 500,
+      "idPlace": "ChIJ9_SiIwBbvjsRB8mD2giBLaE",
+      "docId": "1pWGY7fMGGxOnY7UbPKf",
+      "toDate": "2026-01-18T08:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F9d25fb1c-4399-42ad-8045-c0973cb44a52%2Ffull_023447a0-840c-11f0-a3a6-cbf3abab249f?alt=media&token=67b9ac86-2a05-43da-9f13-77aa06646df0",
+      "description": "✨ Welcome to The Mount Sessions ✨\nYour weekly Saturday night affair under the stars 🌌\n\n🎶 Shābdha aka Audio Monk takes over the decks, serving up fresh, unheard sounds across multiple genres. Expect deep, immersive grooves that keep you moving all night long.\n\n📍 The Mount, Palolem, Goa – our beautiful open-air venue\n🕗 Doors open 8 PM | Every Saturday\n\nCome early, dance late, and lose yourself in the music. See you at the summit! 💜",
+      "id": "1pWGY7fMGGxOnY7UbPKf"
     },
     {
+      "eventDates": [
+        "170126"
+      ],
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fb56338c0-4a03-468f-868a-e246968c2fff%2Fthumb_8dd087f0-d291-11f0-a55f-efa8e2fb5787?alt=media&token=65652b79-3996-4075-9c8c-f0e50ccc88ad",
+      "title": "Open Air Bollywood",
+      "listTags": [
+        "DJ",
+        "House"
+      ],
+      "fromDate": "2026-01-17T15:30:00Z",
+      "countFollowers": 5,
+      "tribe": "goa",
       "publishStatus": -1,
       "entryFee": -1,
-      "viewsCount": 44,
-      "fromDate": "2026-01-14T13:30:00Z",
-      "idPlace": "ChIJzaX1Wl2xvzsRy7w8H5IyGtI",
-      "countFollowers": 3,
-      "docId": "21mvu8LFGAIUze15JPGE",
-      "toDate": "2026-01-14T22:30:00Z",
-      "tribe": "goa",
+      "idPlace": "ChIJSyIZJhbvvzsRkuCCY5n6PFQ",
+      "docId": "1yQqODKX9UGPJJyVfeC3",
+      "toDate": "2026-01-17T19:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fb56338c0-4a03-468f-868a-e246968c2fff%2Ffull_8dce6510-d291-11f0-a55f-efa8e2fb5787?alt=media&token=21ca5c8c-07fb-4f86-86ef-1fd2d7ff65ec",
+      "id": "1yQqODKX9UGPJJyVfeC3"
+    },
+    {
       "eventDates": [
         "140126"
       ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fffe9c55c-0c6e-47d9-9f7e-3cdf86896ad0%2Ffull_ffe9c55c-0c6e-47d9-9f7e-3cdf86896ad0?alt=media&token=ecc3a944-174e-4617-8638-29c5101796d1",
+      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fffe9c55c-0c6e-47d9-9f7e-3cdf86896ad0%2Fthumb_ffe9c55c-0c6e-47d9-9f7e-3cdf86896ad0?alt=media&token=10c9f828-48d4-4a59-bb89-e47e5e47af7e",
       "title": "New Year 2026",
       "listTags": [
         "Karaoke",
         "Live Concert",
         "Acoustic"
       ],
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fffe9c55c-0c6e-47d9-9f7e-3cdf86896ad0%2Fthumb_ffe9c55c-0c6e-47d9-9f7e-3cdf86896ad0?alt=media&token=10c9f828-48d4-4a59-bb89-e47e5e47af7e",
-      "id": "21mvu8LFGAIUze15JPGE"
-    },
-    {
+      "viewsCount": 44,
+      "fromDate": "2026-01-14T13:30:00Z",
+      "countFollowers": 3,
+      "tribe": "goa",
       "publishStatus": -1,
       "entryFee": -1,
-      "fromDate": "2026-01-10T14:30:00Z",
-      "idPlace": "ChIJyUSSwD21vzsRnn9ehJZo9sw",
-      "docId": "24H5PCvBLz3FoQ893n3d",
-      "toDate": "2026-01-10T16:30:00Z",
-      "tribe": "goa",
-      "eventDates": [
-        "100126"
-      ],
-      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F43b0d72a-e0af-4675-894e-1bfa3b2008bf%2Ffull_eaf89df0-11da-11f0-956f-7b71cc245d27?alt=media&token=2334196a-197b-400f-a1b2-c7b09ac541bb",
-      "title": "Masquerade",
-      "picture_thumbnail": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F43b0d72a-e0af-4675-894e-1bfa3b2008bf%2Ffull_eaf89df0-11da-11f0-956f-7b71cc245d27?alt=media&token=2334196a-197b-400f-a1b2-c7b09ac541bb",
-      "id": "24H5PCvBLz3FoQ893n3d"
+      "idPlace": "ChIJzaX1Wl2xvzsRy7w8H5IyGtI",
+      "docId": "21mvu8LFGAIUze15JPGE",
+      "toDate": "2026-01-14T22:30:00Z",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2Fffe9c55c-0c6e-47d9-9f7e-3cdf86896ad0%2Ffull_ffe9c55c-0c6e-47d9-9f7e-3cdf86896ad0?alt=media&token=ecc3a944-174e-4617-8638-29c5101796d1",
+      "id": "21mvu8LFGAIUze15JPGE"
     }
   ]
 }
